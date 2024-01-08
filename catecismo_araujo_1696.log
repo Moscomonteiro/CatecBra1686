@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.21)  8 JAN 2024 08:50
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.21)  8 JAN 2024 09:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2212,6 +2212,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [87]
+Overfull \hbox (0.99857pt too wide) in paragraph at lines 2513--2515
+[]\TU/EBGaramond(0)/m/n/12 Oangaipâba recé ogoenonhéneme, iamo
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2219,7 +2223,41 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[88] (./catecismo_araujo_1696.aux)
+[88]
+Overfull \hbox (1.9746pt too wide) in paragraph at lines 2539--2540
+[]\TU/EBGaramond(0)/m/n/12 Marã pe äé cemienocẽgoâma recóu äépe? 
+ []
+
+
+Overfull \hbox (3.32658pt too wide) in paragraph at lines 2549--2550
+[]\TU/EBGaramond(0)/m/n/12 Itá caramemoã pupé inônghi çokendâpa. 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[89]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.07416pt (O);
+(lettrine.sty)             reported on input line 2571.
+
+Underfull \hbox (badness 4168) in paragraph at lines 2571--2571
+[]\TU/EBGaramond(0)/m/sc/12 I\TU/EBGaramond(0)/m/n/12 cobéiebyripe iandé iâra oguerõ
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[90] (./catecismo_araujo_1696.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
@@ -2234,4 +2272,4 @@ Here is how much of TeX's memory you used:
  1350 hyphenation exceptions out of 8191
  79i,12n,93p,329b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on catecismo_araujo_1696.pdf (89 pages).
+Output written on catecismo_araujo_1696.pdf (91 pages).
