@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.21)  26 FEB 2024 11:03
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.21)  27 FEB 2024 10:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2503,8 +2503,13 @@ Package lettrine.sty Info: Targeted height = 63.436pt
 (lettrine.sty)             Lettrine height = 56.23325pt (\zall {M});
 (lettrine.sty)             reported on input line 2938.
 
-Overfull \hbox (22.5698pt too wide) in paragraph at lines 2932--2944
+Overfull \hbox (22.5698pt too wide) in paragraph at lines 2932--2945
 [] [] 
+ []
+
+
+Overfull \hbox (2.07059pt too wide) in paragraph at lines 2953--2955
+[]\TU/EBGaramond(0)/m/n/12 Ogoemimotáriböépe erímbäé inhëénghi
  []
 
 
@@ -2514,19 +2519,132 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[102] (./catecismo_araujo_1696.aux)
+[102]
+Underfull \hbox (badness 7397) in paragraph at lines 2956--2958
+[]\TU/EBGaramond(0)/m/n/12 Oipotá catú ogoeõ agoéra recé acé
+ []
+
+
+Overfull \hbox (0.51859pt too wide) in paragraph at lines 2962--2964
+[]\TU/EBGaramond(0)/m/n/12 Ombäéú goemimböé etá pyri carúkeme,
+ []
+
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.84435pt (M);
+(lettrine.sty)             reported on input line 2980.
+
+Overfull \hbox (6.5466pt too wide) in paragraph at lines 2984--2986
+[]\TU/EBGaramond(0)/m/n/12 MOçapyr oboiá, Saõ Pedro, Santiago, Saõ
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[103]
+Overfull \hbox (1.39859pt too wide) in paragraph at lines 3003--3007
+[]\TU/EBGaramond(0)/m/n/12 Aipó xe rëõnâmarambuépra abäyme, to-
+ []
+
+
+Overfull \hbox (0.37859pt too wide) in paragraph at lines 3003--3007
+\TU/EBGaramond(0)/m/n/12 nhe monhãnghumé xeremimotâra ëí, nde
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[104]
+Underfull \hbox (badness 1194) in paragraph at lines 3028--3030
+[]\TU/EBGaramond(0)/m/n/12 Tuguy tikyroéra abyarëyma opiránga-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[105]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.70613pt (A);
+(lettrine.sty)             reported on input line 3058.
+
+Overfull \hbox (0.17859pt too wide) in paragraph at lines 3072--3075
+[]\TU/EBGaramond(0)/m/n/12 Aéacétobapé pyténe, oiâbo, peipycyc ca-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[106]
+Overfull \hbox (1.72258pt too wide) in paragraph at lines 3091--3093
+[]\TU/EBGaramond(0)/m/n/12 Opá iieäkipué reroiebyri, öatucupê pyté-
+ []
+
+
+Overfull \hbox (1.05858pt too wide) in paragraph at lines 3093--3095
+[]\TU/EBGaramond(0)/m/n/12 Oporandúbénhépe iandé iâra ixupe abá-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[107]
+Overfull \hbox (4.4386pt too wide) in paragraph at lines 3115--3117
+[]\TU/EBGaramond(0)/m/n/12 Oipoçanóng, inambí atoĩa nhóte, aunhé-
+ []
+
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.84435pt (M);
+(lettrine.sty)             reported on input line 3140.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[108]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[109] (./catecismo_araujo_1696.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6946 strings out of 474832
- 170342 string characters out of 5752144
+ 6950 strings out of 474832
+ 170396 string characters out of 5752144
  1926109 words of memory out of 5000000
- 28935 multiletter control sequences out of 15000+600000
+ 28939 multiletter control sequences out of 15000+600000
  559634 words of font info for 74 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  79i,12n,93p,329b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on catecismo_araujo_1696.pdf (103 pages).
+Output written on catecismo_araujo_1696.pdf (110 pages).
