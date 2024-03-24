@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.21)  27 FEB 2024 10:36
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.21)  24 MAR 2024 14:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2625,6 +2625,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [108]
+Underfull \hbox (badness 5161) in paragraph at lines 3166--3167
+[]\TU/EBGaramond(0)/m/n/12 Marã iabépe cerecóu guá äipó ïére-
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 3167--3170
+\TU/EBGaramond(0)/m/n/12 monãpipó morobixâba erenheéngobai-
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2632,7 +2641,100 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[109] (./catecismo_araujo_1696.aux)
+[109]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.84435pt (M);
+(lettrine.sty)             reported on input line 3192.
+
+Underfull \hbox (badness 2762) in paragraph at lines 3192--3192
+[]\TU/EBGaramond(0)/m/sc/12 A\TU/EBGaramond(0)/m/n/12 mópe Anás iandé iâra reraçó
+ []
+
+
+Overfull \hbox (6.66658pt too wide) in paragraph at lines 3197--3199
+[]\TU/EBGaramond(0)/m/n/12 Onhëéng monha monháng tenhé o- möé-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[110]
+Overfull \hbox (3.82259pt too wide) in paragraph at lines 3219--3221
+[]\TU/EBGaramond(0)/m/n/12 Marã iabépe maranarí tecoâra cerecóu äé-
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 3221--3226
+[]\TU/EBGaramond(0)/m/n/12 Oixamicyc ceröâma iáiâia, çobá recé
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 3221--3226
+\TU/EBGaramond(0)/m/n/12 ubâna, çobá petépetêca, iaypy atycáty-
+ []
+
+
+Overfull \hbox (0.95459pt too wide) in paragraph at lines 3226--3228
+[]\TU/EBGaramond(0)/m/n/12 Opábanhé cerã erimbäé äépe tecoára iiaó
+ []
+
+
+Overfull \hbox (2.41858pt too wide) in paragraph at lines 3234--3236
+[]\TU/EBGaramond(0)/m/n/12 Tëyípenhé igoapyki, tatá ipype oiepegoá-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[111]
+Underfull \hbox (badness 1107) in paragraph at lines 3250--3252
+[]\TU/EBGaramond(0)/m/n/12 Iandé iâra nheéngoéra recébé omäen-
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 3253--3256
+\TU/EBGaramond(0)/m/n/12 cüacúb, mocoĩ guyrá çapucai ëymebé
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 3256--3258
+[]\TU/EBGaramond(0)/m/n/12 Marãpe Saõ Pedro recóu öangaipaba
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3263--3265
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[112]
+Underfull \hbox (badness 1661) in paragraph at lines 3269--3272
+[]\TU/EBGaramond(0)/m/n/12 Ndoroicoi aipóbäé recé, ëí: nde ipó
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[113] (./catecismo_araujo_1696.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
@@ -2647,4 +2749,4 @@ Here is how much of TeX's memory you used:
  1350 hyphenation exceptions out of 8191
  79i,12n,93p,329b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on catecismo_araujo_1696.pdf (110 pages).
+Output written on catecismo_araujo_1696.pdf (114 pages).
