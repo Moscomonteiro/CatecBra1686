@@ -1,15 +1,15 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.15)  21 MAY 2024 15:23
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.21)  26 MAY 2024 15:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/c5cc/OneDrive - PETROBRAS/Documents/git_reps/CatecBra1686/catecismo_araujo_1696"
-(c:/Users/c5cc/OneDrive - PETROBRAS/Documents/git_reps/CatecBra1686/catecismo_araujo_1696.tex
+**"c:/Users/C5CC/OneDrive - PETROBRAS/Documents/git_reps/CatecBra1686/catecismo_araujo_1696"
+(c:/Users/C5CC/OneDrive - PETROBRAS/Documents/git_reps/CatecBra1686/catecismo_araujo_1696.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
-(c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/base/book.cls
+(c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
-(c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/base/bk12.clo
+(c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/base/bk12.clo
 File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count183
@@ -24,14 +24,14 @@ File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count192
@@ -46,7 +46,7 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks18
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks19
 \inpenc@posthook=\toks20
@@ -54,9 +54,9 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
 
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.sty (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.sty (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2023-12-11 L3 programming layer (loader) 
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2023-11-09 L3 backend support: XeTeX
 \g__graphics_track_int=\count195
 \l__pdf_internal_box=\box51
@@ -67,7 +67,7 @@ File: l3backend-xetex.def 2023-11-09 L3 backend support: XeTeX
 Package: xparse 2023-10-10 L3 Experimental document command parser
 )
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_script_int=\count199
 \l__fontspec_language_int=\count266
@@ -83,26 +83,26 @@ Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_tmpa_dim=\dimen149
 \l__fontspec_tmpb_dim=\dimen150
 \l__fontspec_tmpc_dim=\dimen151
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 107.
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/graphics-def/xetex.def
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen152
 \Gin@req@width=\dimen153
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/lettrine/lettrine.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2023-08-14 v2.52 (Daniel Flipo)
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/l3packages/xfp/xfp.sty
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/l3packages/xfp/xfp.sty
 Package: xfp 2023-10-10 L3 Floating point unit
 )
 \c@DefaultLines=\count276
@@ -134,17 +134,17 @@ Package: xfp 2023-10-10 L3 Floating point unit
 \LettrineDepth=\dimen173
 
 Loading lettrine.cfg
-(c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/lettrine/lettrine.cfg)
+(c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/lettrine/lettrine.cfg)
 \Llist@everypar=\toks21
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/cfr-initials/Typocaps.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/cfr-initials/Typocaps.sty
 Package: Typocaps 2007/11/24 v1.01 Typocaps CFR
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/initials/Typocaps.fd
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/initials/Typocaps.fd
 File: Typocaps.fd 2003/04/02 Font definition file for U/Typocaps
-)) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/cfr-initials/Zallman.sty
+)) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/cfr-initials/Zallman.sty
 Package: Zallman 2007/11/24 v1.01 Zallman CFR
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/initials/Zallman.fd
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/initials/Zallman.fd
 File: Zallman.fd 2003/04/02 Font definition file for U/Zallman
-)) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+)) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip50
 \RaggedLeftLeftskip=\skip51
@@ -160,35 +160,35 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedLeftParindent=\skip61
 \RaggedRightParindent=\skip62
 \JustifyingParindent=\skip63
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/changepage/changepage.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count280
 \cp@tempcnt=\count281
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2023/12/10 v3.99 The Babel package
 \babel@savecnt=\count282
 \U@D=\dimen174
 \l@unhyphenated=\language89
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/generic/babel/xebabel.def)
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/generic/babel/xebabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count283
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/generic/babel-portuges/portuguese.ldf
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/generic/babel-portuges/portuguese.ldf
 Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
 Package babel Info: Making " an active character on input line 143.
-)) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/generic/babel/locale/pt/babel-portuguese.tex
+)) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/generic/babel/locale/pt/babel-portuguese.tex
 Package babel Info: Importing font and identification data for portuguese
 (babel)             from babel-pt.ini. Reported on input line 11.
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/hyphenat/hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language90
 LaTeX Info: Redefining \_ on input line 43.
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/fwlw/fwlw.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/fwlw/fwlw.sty
 \FirstWordBox=\box55
 \NextWordBox=\box56
 \LastWordBox=\box57
 \LW@box=\box58
 \LW@saved=\box59
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip64
 \f@nch@O@elh=\skip65
@@ -199,7 +199,7 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@erf=\skip70
 \f@nch@O@olf=\skip71
 \f@nch@O@orf=\skip72
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \ttl@box=\box60
 \beforetitleunit=\skip73
@@ -210,7 +210,7 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidth=\dimen177
 \titlewidthlast=\dimen178
 \titlewidthfirst=\dimen179
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip75
 \enit@outerparindent=\dimen180
@@ -218,7 +218,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box61
 \enit@count@id=\count284
 \enitdp@description=\count285
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count286
 )
@@ -239,7 +239,7 @@ LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 144.
 LaTeX Font Info:    ... okay on input line 144.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 144.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 144.
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 144.
@@ -3234,6 +3234,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [134]
+Overfull \hbox (6.67458pt too wide) in paragraph at lines 4008--4010
+[]\TU/EBGaramond(0)/m/n/12 Oporoapixâpa, oporoyrõramo, oporonu-
+ []
+
+
+Overfull \hbox (0.32658pt too wide) in paragraph at lines 4012--4014
+[]\TU/EBGaramond(0)/m/n/12 Oinupã tecó catú abyagoéra iá nhóte, ce-
+ []
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 4022--4024
+[]\TU/EBGaramond(0)/m/n/12 Ogoerecómemoãçâra recé oiepyca ti-
+ []
+
+
+Overfull \hbox (0.13058pt too wide) in paragraph at lines 4024--4026
+[]\TU/EBGaramond(0)/m/n/12 Cecé oiepyca tirüã: inhyrõ nhé acé ixupé
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 4026--4030
+[]\TU/EBGaramond(0)/m/n/12 Deitëé cerã acé Tupã monghetaçâpe,
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3241,19 +3265,157 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[135] (./catecismo_araujo_1696.aux)
+[135]
+Underfull \hbox (badness 2096) in paragraph at lines 4034--4037
+[]\TU/EBGaramond(0)/m/n/12 Oiaby bépe abá aipó Tupã nhëênga,
+ []
+
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.84435pt (M);
+(lettrine.sty)             reported on input line 4063.
+
+Underfull \hbox (badness 1430) in paragraph at lines 4069--4071
+[]\TU/EBGaramond(0)/m/n/12 Cunhã potá nhóte tirüãpe abá Tupã
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[136]
+Overfull \hbox (3.6946pt too wide) in paragraph at lines 4075--4077
+[]\TU/EBGaramond(0)/m/n/12 Ixupé onhëênga cecé oicópotá, ixupé oie-
+ []
+
+
+Overfull \hbox (30.87057pt too wide) in paragraph at lines 4080--4083
+\TU/EBGaramond(0)/m/n/12 angherecoçâpe, cecé omäendüaçape im- borypa? 
+ []
+
+
+Overfull \hbox (4.46259pt too wide) in paragraph at lines 4088--4091
+[]\TU/EBGaramond(0)/m/n/12 Oiemongatyrômo, abá opotára potá, coi-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[137]
+Overfull \hbox (0.18257pt too wide) in paragraph at lines 4101--4104
+\TU/EBGaramond(0)/m/n/12 onhemomotáriré, coipó imonghetá roiré,
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 4111--4114
+\TU/EBGaramond(0)/m/n/12 mombegoápe, goemimomoxypuéra öa-
+ []
+
+
+Overfull \hbox (0.28258pt too wide) in paragraph at lines 4115--4117
+[]\TU/EBGaramond(0)/m/n/12 Aépe omêna, coipó goemirecó anameté-
+ []
+
+
+Overfull \hbox (8.85059pt too wide) in paragraph at lines 4124--4127
+[]\TU/EBGaramond(0)/m/n/12 Opupúcbäé, coipó okêra pupé opupucoé-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[138]
+Overfull \hbox (1.7226pt too wide) in paragraph at lines 4129--4132
+[]\TU/EBGaramond(0)/m/n/12 Cunhã, coipó abá reté recé omäêmo, coi-
+ []
+
+
+Overfull \hbox (3.80258pt too wide) in paragraph at lines 4133--4136
+\TU/EBGaramond(0)/m/n/12 bamo, coipó onhëêngäíbamo, coipó onhë-
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 4136--4139
+[]\TU/EBGaramond(0)/m/n/12 Oiaby eté bépe cunhã Tupã nhëênga
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[139]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.84435pt (M);
+(lettrine.sty)             reported on input line 4165.
+
+Overfull \hbox (6.2826pt too wide) in paragraph at lines 4172--4174
+[]\TU/EBGaramond(0)/m/n/12 Abá mondarõagoéra öúbäé, coipó ogócu-
+ []
+
+
+Overfull \hbox (1.57059pt too wide) in paragraph at lines 4179--4181
+[]\TU/EBGaramond(0)/m/n/12 Abá mbäé mombucâpa, abá rymbâba iu-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[140]
+Underfull \hbox (badness 2582) in paragraph at lines 4188--4190
+[]\TU/EBGaramond(0)/m/n/12 Mbäé canhêma ogoacémaagoéra ïjâra
+ []
+
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.84435pt (M);
+(lettrine.sty)             reported on input line 4220.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[141]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[142] (./catecismo_araujo_1696.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6961 strings out of 474831
- 169370 string characters out of 5758353
+ 6961 strings out of 474832
+ 170770 string characters out of 5752144
  1926109 words of memory out of 5000000
- 28950 multiletter control sequences out of 15000+600000
+ 28949 multiletter control sequences out of 15000+600000
  559634 words of font info for 74 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  79i,12n,93p,329b,430s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on catecismo_araujo_1696.pdf (136 pages).
+Output written on catecismo_araujo_1696.pdf (143 pages).
