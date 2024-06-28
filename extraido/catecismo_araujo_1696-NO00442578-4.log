@@ -1,15 +1,15 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.15)  28 JUN 2024 17:02
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.21)  28 JUN 2024 08:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/c5cc/OneDrive - PETROBRAS/Documents/git_reps/CatecBra1686/extraido/catecismo_araujo_1696"
-(c:/Users/c5cc/OneDrive - PETROBRAS/Documents/git_reps/CatecBra1686/extraido/catecismo_araujo_1696.tex
+**"c:/Users/C5CC/OneDrive - PETROBRAS/Documents/git_reps/CatecBra1686/extraido/catecismo_araujo_1696"
+(c:/Users/C5CC/OneDrive - PETROBRAS/Documents/git_reps/CatecBra1686/extraido/catecismo_araujo_1696.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
-(c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/base/book.cls
+(c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
-(c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/base/bk12.clo
+(c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/base/bk12.clo
 File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count183
@@ -24,14 +24,14 @@ File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count192
@@ -46,7 +46,7 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks18
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks19
 \inpenc@posthook=\toks20
@@ -54,9 +54,9 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
 
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.sty (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.sty (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2023-12-11 L3 programming layer (loader) 
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2023-11-09 L3 backend support: XeTeX
 \g__graphics_track_int=\count195
 \l__pdf_internal_box=\box51
@@ -67,7 +67,7 @@ File: l3backend-xetex.def 2023-11-09 L3 backend support: XeTeX
 Package: xparse 2023-10-10 L3 Experimental document command parser
 )
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_script_int=\count199
 \l__fontspec_language_int=\count266
@@ -83,26 +83,26 @@ Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_tmpa_dim=\dimen149
 \l__fontspec_tmpb_dim=\dimen150
 \l__fontspec_tmpc_dim=\dimen151
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 107.
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/graphics-def/xetex.def
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen152
 \Gin@req@width=\dimen153
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/lettrine/lettrine.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2023-08-14 v2.52 (Daniel Flipo)
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/l3packages/xfp/xfp.sty
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/l3packages/xfp/xfp.sty
 Package: xfp 2023-10-10 L3 Floating point unit
 )
 \c@DefaultLines=\count276
@@ -134,17 +134,17 @@ Package: xfp 2023-10-10 L3 Floating point unit
 \LettrineDepth=\dimen173
 
 Loading lettrine.cfg
-(c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/lettrine/lettrine.cfg)
+(c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/lettrine/lettrine.cfg)
 \Llist@everypar=\toks21
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/cfr-initials/Typocaps.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/cfr-initials/Typocaps.sty
 Package: Typocaps 2007/11/24 v1.01 Typocaps CFR
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/initials/Typocaps.fd
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/initials/Typocaps.fd
 File: Typocaps.fd 2003/04/02 Font definition file for U/Typocaps
-)) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/cfr-initials/Zallman.sty
+)) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/cfr-initials/Zallman.sty
 Package: Zallman 2007/11/24 v1.01 Zallman CFR
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/initials/Zallman.fd
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/initials/Zallman.fd
 File: Zallman.fd 2003/04/02 Font definition file for U/Zallman
-)) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+)) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip50
 \RaggedLeftLeftskip=\skip51
@@ -160,35 +160,35 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedLeftParindent=\skip61
 \RaggedRightParindent=\skip62
 \JustifyingParindent=\skip63
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/changepage/changepage.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count280
 \cp@tempcnt=\count281
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2023/12/10 v3.99 The Babel package
 \babel@savecnt=\count282
 \U@D=\dimen174
 \l@unhyphenated=\language89
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/generic/babel/xebabel.def)
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/generic/babel/xebabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count283
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/generic/babel-portuges/portuguese.ldf
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/generic/babel-portuges/portuguese.ldf
 Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
 Package babel Info: Making " an active character on input line 143.
-)) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/generic/babel/locale/pt/babel-portuguese.tex
+)) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/generic/babel/locale/pt/babel-portuguese.tex
 Package babel Info: Importing font and identification data for portuguese
 (babel)             from babel-pt.ini. Reported on input line 11.
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/hyphenat/hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language90
 LaTeX Info: Redefining \_ on input line 43.
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/fwlw/fwlw.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/fwlw/fwlw.sty
 \FirstWordBox=\box55
 \NextWordBox=\box56
 \LastWordBox=\box57
 \LW@box=\box58
 \LW@saved=\box59
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip64
 \f@nch@O@elh=\skip65
@@ -199,7 +199,7 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@erf=\skip70
 \f@nch@O@olf=\skip71
 \f@nch@O@orf=\skip72
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \ttl@box=\box60
 \beforetitleunit=\skip73
@@ -210,7 +210,7 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidth=\dimen177
 \titlewidthlast=\dimen178
 \titlewidthfirst=\dimen179
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip75
 \enit@outerparindent=\dimen180
@@ -218,7 +218,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box61
 \enit@count@id=\count284
 \enitdp@description=\count285
-) (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count286
 )
@@ -239,7 +239,7 @@ LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 144.
 LaTeX Font Info:    ... okay on input line 144.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 144.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 144.
- (c:/Users/c5cc/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
+ (c:/Users/C5CC/Documents/tex/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 144.
@@ -969,7 +969,7 @@ Overfull \hbox (2.51675pt too wide) in paragraph at lines 979--983
 
 
 Overfull \hbox (0.97006pt too wide) in paragraph at lines 979--983
-\TU/EBGaramond(0)/m/n/12 oré amotarëymbâra çüí. Tû-
+\TU/EBGaramond(0)/m/n/12 oré amotarëymbâra çúí. Tû-
  []
 
 
@@ -2703,7 +2703,7 @@ Underfull \hbox (badness 1259) in paragraph at lines 3231--3236
 
 
 Overfull \hbox (0.95459pt too wide) in paragraph at lines 3236--3238
-[]\TU/EBGaramond(0)/m/n/12 Opábanhé cerã erímbäé äépe tecoára iiaó
+[]\TU/EBGaramond(0)/m/n/12 Opábanhé cerã erimbäé äépe tecoára iiaó
  []
 
 
@@ -3062,7 +3062,7 @@ Overfull \hbox (2.83458pt too wide) in paragraph at lines 3771--3773
 
 
 Underfull \hbox (badness 1917) in paragraph at lines 3773--3775
-[]\TU/EBGaramond(0)/m/n/12 Marã ëípe acé opyápe Tupã rauçûpa
+[]\TU/EBGaramond(0)/m/n/12 Marã ëípe acé opyápe Tupã rauçúpa
  []
 
 
@@ -3533,7 +3533,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [146]
 Underfull \hbox (badness 1509) in paragraph at lines 4403--4406
-[]\TU/EBGaramond(0)/m/n/12 Marã ëípe abá tëõ çüí onhëangüâbo,
+[]\TU/EBGaramond(0)/m/n/12 Marã ëípe abá tëõ çúí onhëangüâbo,
  []
 
 
@@ -3816,18 +3816,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [159]
-Overfull \hbox (3.2186pt too wide) in paragraph at lines 4867--4876
+Overfull \hbox (2.7799pt too wide) in paragraph at lines 4866--4875
+\TU/EBGaramond(0)/m/n/12 mana pupé ilecüacupâba temporas iâba. O-
+ []
+
+
+Overfull \hbox (3.2186pt too wide) in paragraph at lines 4866--4875
 \TU/EBGaramond(0)/m/n/12 có bé acé ángbäé recé oiecüacûbone, tacepy-
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 4883--4889
-[]| \TU/EBGaramond(0)/m/n/12 Có Domingo öúrbäé Santiſſima Trin-
+Overfull \hbox (20.24258pt too wide) in paragraph at lines 4879--4883
+\TU/EBGaramond(0)/m/n/12 dade ára Moçapyr abáramo cecó , Túba, Tãâyra,
  []
 
 
-Overfull \hbox (4.83589pt too wide) in paragraph at lines 4883--4889
-\TU/EBGaramond(0)/m/n/12 pupé iaimöeté. Aê iandé monhangára, tiaie-
+Overfull \hbox (10.43857pt too wide) in paragraph at lines 4879--4883
+\TU/EBGaramond(0)/m/n/12 moété.Aê iandé monhangára , tiaieruré ixupé
+ []
+
+
+Overfull \hbox (1.40257pt too wide) in paragraph at lines 4879--4883
+\TU/EBGaramond(0)/m/n/12 tiandereraçó ogorypápe , oioêcé iandé moie
  []
 
 
@@ -3838,38 +3848,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [160]
-Underfull \hbox (badness 2556) in paragraph at lines 4920--4930
-\TU/EBGaramond(0)/m/n/10.95 in qua apud Leandrum de S.Sacram.p.3.
+Overfull \hbox (16.32259pt too wide) in paragraph at lines 4894--4906
+\TU/EBGaramond(0)/m/n/12 tiandemäenduúár Tupã abáramo ogoecó pupé
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 4901--4948
-[]| \TU/EBGaramond(0)/m/n/12 Morabykyëyma có âra iaimöeté, Tupã
+Overfull \hbox (3.30391pt too wide) in paragraph at lines 4894--4906
+\TU/EBGaramond(0)/m/n/12 ogoetéramo , cãoi oguguyramo. Ara có tecó
  []
 
 
-Overfull \hbox (1.29857pt too wide) in paragraph at lines 4901--4948
-\TU/EBGaramond(0)/m/n/12 monghetâbo nhóte, tiandemäendüár Tupã
+Overfull \hbox (1.75458pt too wide) in paragraph at lines 4894--4906
+\TU/EBGaramond(0)/m/n/12 auieçaba pytâna Judeos ipycycagoéramo ce-
  []
 
 
-Overfull \hbox (2.40256pt too wide) in paragraph at lines 4901--4948
-\TU/EBGaramond(0)/m/n/12 tãos rorybëymamo,cêó agoéra rapirômo bé.
+Overfull \hbox (7.26656pt too wide) in paragraph at lines 4894--4906
+\TU/EBGaramond(0)/m/n/12 córeme , Chriftãos rorybëymamo,cêó agoéra
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 4901--4948
-\TU/EBGaramond(0)/m/n/12 Deitëé cöyr onhemöaretêbo gorybamo,
+Overfull \hbox (3.7626pt too wide) in paragraph at lines 4918--4920
+[]\TU/EBGaramond(0)/m/n/12 ta feira immediata antes de/ta fe/ta , por
  []
 
 
-Overfull \hbox (1.17595pt too wide) in paragraph at lines 4901--4948
-| [] | [] 
+Overfull \hbox (2.69592pt too wide) in paragraph at lines 4921--4927
+\TU/EBGaramond(0)/m/n/12 incipit, cum evenire,ex Paíqual. Decilf.173.
  []
 
 
-Overfull \hbox (1.17595pt too wide) in paragraph at lines 4901--4948
-| [] | [] 
+Overfull \hbox (1.71591pt too wide) in paragraph at lines 4921--4927
+\TU/EBGaramond(0)/m/n/12 in qua apud Leandrum de S.Sacram.p.3. tr.
+ []
+
+
+Overfull \hbox (7.0319pt too wide) in paragraph at lines 4921--4927
+\TU/EBGaramond(0)/m/n/12 3. diíput.7.q.13.ait, quod non indulget Pon-
  []
 
 
@@ -3880,13 +3895,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [161]
-Overfull \hbox (2.22658pt too wide) in paragraph at lines 4957--4968
-\TU/EBGaramond(0)/m/n/12 iára renotáramo, imombegoábo, Penhemo-
+Overfull \hbox (22.39061pt too wide) in paragraph at lines 4934--4936
+\TU/EBGaramond(0)/m/n/12 nas partes , em que fe guardão as Con/lituiçoens
  []
 
 
-Overfull \hbox (0.53859pt too wide) in paragraph at lines 4957--4968
-\TU/EBGaramond(0)/m/n/12 ropycyroâna rúri, ëi erímbäé Chriſto mom-
+Overfull \hbox (5.07321pt too wide) in paragraph at lines 4942--4944
+[]\TU/EBGaramond(0)/m/n/12 Adi P.Bened. Pereira in Theol. Mor.p.?.
+ []
+
+
+Overfull \hbox (18.16258pt too wide) in paragraph at lines 4945--4947
+[]\TU/EBGaramond(0)/m/n/12 Aos 23.de funho,vigilta de S.João Baphi/la,
+ []
+
+
+Overfull \hbox (7.25378pt too wide) in paragraph at lines 4948--4950
+[]\TU/EBGaramond(0)/m/n/12 Aos 24.O Nacimento de S.João Bapli/la,
+ []
+
+
+Overfull \hbox (12.37459pt too wide) in paragraph at lines 4955--4957
+[]\TU/EBGaramond(0)/m/n/12 téçábamo.Ocy ryghépe cecóreme bé Tupã
+ []
+
+
+Overfull \hbox (13.56789pt too wide) in paragraph at lines 4958--4960
+[]\TU/EBGaramond(0)/m/n/12 dam remitypoéra pêàbo. Deitêé oúr iandé
  []
 
 
@@ -3897,18 +3932,48 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [162]
-Underfull \hbox (badness 1082) in paragraph at lines 4990--4996
-\TU/EBGaramond(0)/m/n/12 Tupã recé , oioécé cëõagoéra recé Tupã
+Overfull \hbox (14.99057pt too wide) in paragraph at lines 4963--4964
+\TU/EBGaramond(0)/m/n/12 Moropycyroâna rúri,êi erimbäé Chriſto mom-
  []
 
 
-Overfull \hbox (0.23857pt too wide) in paragraph at lines 5001--5008
-\TU/EBGaramond(0)/m/n/12 Maria ababycagoeréyma cyramo cecóreme,
+Underfull \hbox (badness 10000) in paragraph at lines 4963--4964
+
  []
 
 
-Overfull \hbox (2.2706pt too wide) in paragraph at lines 5001--5008
-\TU/EBGaramond(0)/m/n/12 mo oicôbo opácatú tecó catú iâra cy oimbö-
+Overfull \hbox (0.74788pt too wide) in paragraph at lines 4965--4967
+\TU/EBGaramond(0)/m/n/12 apyraçâba peiâba iamondyc imöetêbo. Aos 
+ []
+
+
+Overfull \hbox (13.86256pt too wide) in paragraph at lines 4976--4977
+\TU/EBGaramond(0)/m/n/12 tépyramo cecóu, Chriftãos imongarãâíibipyra
+ []
+
+
+Overfull \hbox (11.40659pt too wide) in paragraph at lines 4976--4977
+\TU/EBGaramond(0)/m/n/12 tecó cúiapáramo Chriſto remieiàra, oiolrúmo
+ []
+
+
+Overfull \hbox (23.36658pt too wide) in paragraph at lines 4981--4982
+[]\TU/EBGaramond(0)/m/n/12 Aos 25.Santiago Maior Apo/lolo,de guarda. 
+ []
+
+
+Overfull \hbox (8.15189pt too wide) in paragraph at lines 4983--4987
+\TU/EBGaramond(0)/m/n/12 imöeté ucâri.Ara ipilaçâba iecüacúpâba. Aos
+ []
+
+
+Overfull \hbox (2.17459pt too wide) in paragraph at lines 4990--4991
+[]\TU/EBGaramond(0)/m/n/12 Santa Anna âra imöetepyra , äébõé ebo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4990--4991
+
  []
 
 
@@ -3919,13 +3984,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [163]
-Overfull \hbox (4.0599pt too wide) in paragraph at lines 5017--5024
-\TU/EBGaramond(0)/m/n/12 itá jurá árybo cecyri Tupã recé ijucâbo. Imo-
+Overfull \hbox (0.46259pt too wide) in paragraph at lines 4992--4994
+[]\TU/EBGaramond(0)/m/n/12 qué âra acé oimöeté catú né, iandé iàâra
  []
 
 
-Overfull \hbox (2.8639pt too wide) in paragraph at lines 5017--5024
-\TU/EBGaramond(0)/m/n/12 gâra pupé cêõagoéra moeteçábamo. Ie- cüa-
+Overfull \hbox (0.4751pt too wide) in paragraph at lines 5005--5007
+[]\TU/EBGaramond(0)/m/n/12 EM AGOSTO. Aos 9. Vigiliade jejum. 
+ []
+
+
+Overfull \hbox (6.92657pt too wide) in paragraph at lines 5008--5009
+[]\TU/EBGaramond(0)/m/n/12 Aos 10.Saõ Lourenço Martyr,de guarda. 
+ []
+
+
+Overfull \hbox (8.63058pt too wide) in paragraph at lines 5014--5017
+[]\TU/EBGaramond(0)/m/n/12 Imoetêbo niaporabykyi có âra pupé,amó
+ []
+
+
+Overfull \hbox (45.16658pt too wide) in paragraph at lines 5014--5017
+\TU/EBGaramond(0)/m/n/12 inungâra pupé cêõagoéra moeteçábamo.lecüacúbabé
+ []
+
+
+Overfull \hbox (8.52177pt too wide) in paragraph at lines 5018--5020
+[]\TU/EBGaramond(0)/m/n/12 Aos15.A Aſſumpção da Virgem Senhora
+ []
+
+
+Overfull \hbox (2.03857pt too wide) in paragraph at lines 5021--5022
+\TU/EBGaramond(0)/m/n/12 iàraSanta Maria ocy ânga,ceté abé iandê iâra 
+ []
+
+
+Overfull \hbox (7.14789pt too wide) in paragraph at lines 5023--5026
+\TU/EBGaramond(0)/m/n/12 piri ceraçõbo ybákype. Ebapó çoyr goecoápe
  []
 
 
@@ -3936,33 +4031,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [164]
-Underfull \hbox (badness 1325) in paragraph at lines 5061--5066
-\TU/EBGaramond(0)/m/n/12 catú amó recê imopaneméymi çauçûpa.
+Overfull \hbox (5.35777pt too wide) in paragraph at lines 5047--5049
+[]\TU/EBGaramond(0)/m/n/12 Aos 8.O Nacimento da Virgem Senhora
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5061--5066
-
- []
-
-
-Overfull \hbox (2.37593pt too wide) in paragraph at lines 5067--5078
-[]| [] | [] 
- []
-
-
-Overfull \hbox (1.34258pt too wide) in paragraph at lines 5080--5088
-[]| \TU/EBGaramond(0)/m/n/12 Quarta, ſeſta feira,ſabbado abé có ſomana
- []
-
-
-Overfull \hbox (2.44391pt too wide) in paragraph at lines 5080--5088
-\TU/EBGaramond(0)/m/n/12 pupé iecüacupâba, Temporas iâba. Oiecüa-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5080--5088
-
+Overfull \hbox (1.5079pt too wide) in paragraph at lines 5050--5053
+\TU/EBGaramond(0)/m/n/12 Tãâyra ipycyrõu ocyrâma recé. Deitéêé tecó
  []
 
 
@@ -3973,18 +4048,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [165]
-Underfull \hbox (badness 10000) in paragraph at lines 5096--5101
-[]| \TU/EBGaramond(0)/m/n/12 Tupã mombegoâpe cykyieëyma recé,
+Overfull \hbox (3.34259pt too wide) in paragraph at lines 5075--5080
+[]\TU/EBGaramond(0)/m/n/12 cúb acé ebôui âra pupé,taxe mõóingobé
  []
 
 
-Overfull \hbox (2.43059pt too wide) in paragraph at lines 5096--5101
-\TU/EBGaramond(0)/m/n/12 cúb ipïaçâba âra pupé.Có Santo omböeçâra
+Overfull \hbox (10.31778pt too wide) in paragraph at lines 5081--5083
+[]\TU/EBGaramond(0)/m/n/12 Aos 21.S.Mattheos Apo/2tolo,&T Evan-
  []
 
 
-Overfull \hbox (0.24258pt too wide) in paragraph at lines 5106--5114
-\TU/EBGaramond(0)/m/n/12 ramo.Aé abé abá angaturâma rëõneme,iân-
+Overfull \hbox (7.74658pt too wide) in paragraph at lines 5092--5093
+[]\TU/EBGaramond(0)/m/n/12 abá angaipabôra Saõ Mattheos iandé iâra 
+ []
+
+
+Overfull \hbox (8.3546pt too wide) in paragraph at lines 5094--5097
+\TU/EBGaramond(0)/m/n/12 bõeçâra recopoéra erímbäé oicoatiár iandébo
+ []
+
+
+Overfull \hbox (12.3399pt too wide) in paragraph at lines 5094--5097
+\TU/EBGaramond(0)/m/n/12 ceiá. Aos 29.5ão Miguel Archanjo, de guarda. 
+ []
+
+
+Overfull \hbox (16.39458pt too wide) in paragraph at lines 5100--5102
+[]\TU/EBGaramond(0)/m/n/12 opytábäépoéra rubixâba.Aê abé opá imon-
+ []
+
+
+Overfull \hbox (6.96259pt too wide) in paragraph at lines 5100--5102
+\TU/EBGaramond(0)/m/n/12 ramo.Aé abé abá angaturâma rëõneme,iânga
  []
 
 
@@ -3995,13 +4090,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [166]
-Overfull \hbox (1.4706pt too wide) in paragraph at lines 5126--5133
-\TU/EBGaramond(0)/m/n/12 rêymetá, Saõ Simaõ, Saõ Judas Thadeo mo-
+Overfull \hbox (19.9751pt too wide) in paragraph at lines 5113--5115
+[]\TU/EBGaramond(0)/m/n/12 EM OUTUBRO. Aos 27 . Vigilia,dejejum. 
  []
 
 
-Overfull \hbox (1.41858pt too wide) in paragraph at lines 5126--5133
-\TU/EBGaramond(0)/m/n/12 mocoĩ bé Tupã möétêbo cëõu : iandé imöe-
+Overfull \hbox (35.06259pt too wide) in paragraph at lines 5116--5118
+[]\TU/EBGaramond(0)/m/n/12 Aos 28.5.Simão, & S.Judas Thadeo Apo/2olos
+ []
+
+
+Overfull \hbox (7.4106pt too wide) in paragraph at lines 5119--5122
+\TU/EBGaramond(0)/m/n/12 rêymetá, Saó Simaôõ, Saõ Judas Thadeo mo-
+ []
+
+
+Overfull \hbox (0.42178pt too wide) in paragraph at lines 5119--5122
+\TU/EBGaramond(0)/m/n/12 canhêmi Apoftolos JESUS Chriſto remim-
+ []
+
+
+Overfull \hbox (7.35858pt too wide) in paragraph at lines 5119--5122
+\TU/EBGaramond(0)/m/n/12 mocoi bé Tupã mõoétêbo cêõu : iandé imöe-
+ []
+
+
+Overfull \hbox (1.59378pt too wide) in paragraph at lines 5132--5133
+[]\TU/EBGaramond(0)/m/n/12 Ao 1.A Fe/tade fodos os Santos,de guar
  []
 
 
@@ -4012,28 +4127,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [167]
-Underfull \hbox (badness 1895) in paragraph at lines 5157--5168
-[]| \TU/EBGaramond(0)/m/n/12 Santa Madre Igreja rerecoâra Papa có
+Overfull \hbox (2.97057pt too wide) in paragraph at lines 5148--5154
+\TU/EBGaramond(0)/m/n/12 àra oiméêéng iandêbo, angoéra Oangaipâba
  []
 
 
-Overfull \hbox (1.51057pt too wide) in paragraph at lines 5157--5168
+Overfull \hbox (1.51057pt too wide) in paragraph at lines 5148--5154
 \TU/EBGaramond(0)/m/n/12 repymondykêyme Purgatorio pupé oçobäé
  []
 
 
-Overfull \hbox (2.23058pt too wide) in paragraph at lines 5157--5168
-\TU/EBGaramond(0)/m/n/12 mëéng mbäé amó abá porëauçûba çupé: ce-
+Overfull \hbox (7.33058pt too wide) in paragraph at lines 5148--5154
+\TU/EBGaramond(0)/m/n/12 cecébé iatybypoi mbäé amó nônga cecé Tupã
  []
 
 
-Overfull \hbox (0.80258pt too wide) in paragraph at lines 5157--5168
-\TU/EBGaramond(0)/m/n/12 çäangucá, toçauçubár Tupã imocêma, ogo-
+Overfull \hbox (6.47458pt too wide) in paragraph at lines 5148--5154
+\TU/EBGaramond(0)/m/n/12 monghetaçâra mbäéramo : Milla abé iaçãan-
  []
 
 
-Overfull \hbox (4.53189pt too wide) in paragraph at lines 5175--5180
-\TU/EBGaramond(0)/m/n/12 recé imoiâri paçâma pupé inhapytiamo. Tu-
+Overfull \hbox (8.38258pt too wide) in paragraph at lines 5148--5154
+\TU/EBGaramond(0)/m/n/12 ybákype ndoieruré pitubàâri Tupa çupé ogo-
+ []
+
+
+Overfull \hbox (1.09059pt too wide) in paragraph at lines 5158--5159
+[]\TU/EBGaramond(0)/m/n/12 Coyr nungâra âra pupé Chriſto recó re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5158--5159
+
+ []
+
+
+Overfull \hbox (0.64258pt too wide) in paragraph at lines 5160--5163
+\TU/EBGaramond(0)/m/n/12 çarëyma Santo Andre Apofítolo guá iucão,
  []
 
 
@@ -4044,23 +4174,58 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [168]
-Overfull \hbox (0.51457pt too wide) in paragraph at lines 5192--5200
+Overfull \hbox (10.31459pt too wide) in paragraph at lines 5176--5178
+[]\TU/EBGaramond(0)/m/n/12 Teçaia pupé có âra iaimõóeté,Santa Anna
+ []
+
+
+Overfull \hbox (0.51457pt too wide) in paragraph at lines 5176--5178
 \TU/EBGaramond(0)/m/n/12 ocy ryghépe iandé iâra Santa Maria nhemo-
  []
 
 
-Overfull \hbox (5.43988pt too wide) in paragraph at lines 5192--5200
-\TU/EBGaramond(0)/m/n/12 nhangagoéra recé iandé mäendüáramo. Iän-
+Overfull \hbox (22.76788pt too wide) in paragraph at lines 5176--5178
+\TU/EBGaramond(0)/m/n/12 nhangagoéra recé iandé mäendúiáramo. Jlâãnga
  []
 
 
-Overfull \hbox (3.1879pt too wide) in paragraph at lines 5192--5200
-\TU/EBGaramond(0)/m/n/12 gâba çüí. Deitëé opoxyëymamo, öangatura-
+Overfull \hbox (5.33057pt too wide) in paragraph at lines 5176--5178
+\TU/EBGaramond(0)/m/n/12 rõu tecóangaipabypy Adam iandé nongàâba
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 5209--5217
-\TU/EBGaramond(0)/m/n/12 roieby potareyma, tacepymëéng xe recó
+Overfull \hbox (16.94656pt too wide) in paragraph at lines 5179--5180
+[]\TU/EBGaramond(0)/m/n/12 metéramo: Tupã Täyra cyramo oieóianon-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5179--5180
+
+ []
+
+
+Overfull \hbox (0.1386pt too wide) in paragraph at lines 5181--5185
+\TU/EBGaramond(0)/m/n/12 depors de Santa Luzia, ſao temporas de De-
+ []
+
+
+Overfull \hbox (8.35991pt too wide) in paragraph at lines 5186--5187
+\TU/EBGaramond(0)/m/n/12 mana pupé iecííapaba temporas iâba. Oiecia-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5186--5187
+
+ []
+
+
+Overfull \hbox (1.32658pt too wide) in paragraph at lines 5188--5193
+\TU/EBGaramond(0)/m/n/12 pucú Tupã,tomëéng xe remiurâma xêbo oi-
+ []
+
+
+Overfull \hbox (7.83458pt too wide) in paragraph at lines 5188--5193
+\TU/EBGaramond(0)/m/n/12 roieby potarëyma, tacepymëéng xe recó poxy
  []
 
 
@@ -4071,33 +4236,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [169]
-Overfull \hbox (1.61859pt too wide) in paragraph at lines 5226--5234
-\TU/EBGaramond(0)/m/n/12 möeté, Apoſtolo Chriſto boiá erímbäé cecó
+Overfull \hbox (7.10258pt too wide) in paragraph at lines 5199--5200
+[]\TU/EBGaramond(0)/m/n/12 AÁos 21.5.Thome Apo/2olo,de guarda. 
  []
 
 
-Overfull \hbox (0.2346pt too wide) in paragraph at lines 5226--5234
-\TU/EBGaramond(0)/m/n/12 Sãto cupé guá, oúr erímbäé có ybyçûpa ïéu:
+Overfull \hbox (24.4426pt too wide) in paragraph at lines 5201--5203
+[]\TU/EBGaramond(0)/m/n/12 Có âra pupé Saõ Thomé rëõagoéra iaimöeté,
  []
 
 
-Overfull \hbox (15.6266pt too wide) in paragraph at lines 5226--5234
-\TU/EBGaramond(0)/m/n/12 cerã ïaçâbi India Tapyítinga retâme, cëyí ebapó
+Overfull \hbox (3.10258pt too wide) in paragraph at lines 5201--5203
+\TU/EBGaramond(0)/m/n/12 Apoíftolo Chriſto boiá erímbäé cecó agoéra
  []
 
 
-Overfull \hbox (9.3959pt too wide) in paragraph at lines 5243--5250
-\TU/EBGaramond(0)/m/n/12 ra. Opábenhé mbäé iáramo oicôbo çöó mim-
+Overfull \hbox (4.45059pt too wide) in paragraph at lines 5207--5209
+[]\TU/EBGaramond(0)/m/n/12 cerã iaçâbi India Tapyítinga retâme, cêyi
  []
 
 
-Overfull \hbox (1.98926pt too wide) in paragraph at lines 5243--5250
-\TU/EBGaramond(0)/m/n/12 pupé ixy inônghi; ybakygoâra onhemo- pu-
+Overfull \hbox (5.32257pt too wide) in paragraph at lines 5213--5215
+[]\TU/EBGaramond(0)/m/n/12 Aos 25.0 Nacimento de Chri/to Senhor
  []
 
 
-Overfull \hbox (3.9639pt too wide) in paragraph at lines 5243--5250
-\TU/EBGaramond(0)/m/n/12 tupáb inhemomorëauçûba repiâca. Ara ipi-
+Overfull \hbox (12.21059pt too wide) in paragraph at lines 5216--5221
+\TU/EBGaramond(0)/m/n/12 pupé apyabetéramo Chriſto acy çüí laragoéra.
+ []
+
+
+Overfull \hbox (13.0746pt too wide) in paragraph at lines 5216--5221
+\TU/EBGaramond(0)/m/n/12 Opábenhé mbäé iáramo oicôbo çöó mimbàba
+ []
+
+
+Overfull \hbox (0.10788pt too wide) in paragraph at lines 5216--5221
+\TU/EBGaramond(0)/m/n/12 inhemomorêauçâába repiâca. Ara ipiaçãba
  []
 
 
@@ -4108,28 +4283,48 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [170]
-Overfull \hbox (0.8079pt too wide) in paragraph at lines 5272--5281
-\TU/EBGaramond(0)/m/n/12 ryyra rêó. Có Santo opá cecó, inhéêengoéra
+Overfull \hbox (8.62257pt too wide) in paragraph at lines 5228--5232
+[]\TU/EBGaramond(0)/m/n/12 ghi Santo Eftevaô apiapibo iacánga cábo,
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 5289--5301
-\TU/EBGaramond(0)/m/n/12 röy omöauiébäé mombabucaragoéra âra
+Overfull \hbox (15.03857pt too wide) in paragraph at lines 5237--5238
+[]\TU/EBGaramond(0)/m/n/12 Aos 27 .S.João Apo/tolo,& Evangeli/ta,de
  []
 
 
-Overfull \hbox (4.17859pt too wide) in paragraph at lines 5289--5301
-\TU/EBGaramond(0)/m/n/12 pitânga, ïiamundâba pôra abé apitiucári, ce-
+Overfull \hbox (3.17456pt too wide) in paragraph at lines 5242--5243
+[]\TU/EBGaramond(0)/m/n/12 abé coatíiâri iandêbo ceiá : emonánamo
  []
 
 
-Overfull \hbox (1.7026pt too wide) in paragraph at lines 5289--5301
-\TU/EBGaramond(0)/m/n/12 cüâpa Tupã Caräíbebé mböuri, Saõ Joſeph,
+Overfull \hbox (7.53859pt too wide) in paragraph at lines 5244--5247
+[]\TU/EBGaramond(0)/m/n/12 tyby cêóboéra rupâba diaicüabi ogoauçú
  []
 
 
-Overfull \hbox (2.01859pt too wide) in paragraph at lines 5289--5301
-\TU/EBGaramond(0)/m/n/12 to ceríbäé pé : ebapó tapeicó, peiebyrãogoâ-
+Overfull \hbox (30.41858pt too wide) in paragraph at lines 5244--5247
+\TU/EBGaramond(0)/m/n/12 tos imombegoâbo.Jaimöeté iâra iaporabykyëyma.
+ []
+
+
+Overfull \hbox (0.96259pt too wide) in paragraph at lines 5248--5249
+[]\TU/EBGaramond(0)/m/n/12 Herodes Judeos rubixàâba pitânga mo-
+ []
+
+
+Overfull \hbox (0.94658pt too wide) in paragraph at lines 5256--5258
+\TU/EBGaramond(0)/m/n/12 oiucàá potá tenhé icúiabéyma, tâãba Belem
+ []
+
+
+Overfull \hbox (29.41058pt too wide) in paragraph at lines 5256--5258
+\TU/EBGaramond(0)/m/n/12 pôra pitânga, liamundàâba pôra abé apitiucári,ce-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5256--5258
+
  []
 
 
@@ -4140,13 +4335,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [171]
-Overfull \hbox (0.7786pt too wide) in paragraph at lines 5308--5320
-\TU/EBGaramond(0)/m/n/12 Conſtantino ceribäé oceróc, y caräíba pupé
+Overfull \hbox (17.24658pt too wide) in paragraph at lines 5266--5269
+[]\TU/EBGaramond(0)/m/n/12 ciâpa Tupã Carãíibebé mbodri,Saõ Joſeph,
  []
 
 
-Overfull \hbox (1.71333pt too wide) in paragraph at lines 5324--5329
-\TU/EBGaramond(0)/m/it/10 ou ſaõ de preceito pelos Canones ſagrados , ou de coſtu-
+Overfull \hbox (15.82658pt too wide) in paragraph at lines 5276--5277
+\TU/EBGaramond(0)/m/n/12 cerokipyra rubixapoéraPapa Ceríibäé iaimöeté
+ []
+
+
+Overfull \hbox (38.50658pt too wide) in paragraph at lines 5278--5281
+\TU/EBGaramond(0)/m/n/12 rêba àiba çüí Cóbäé aquéme Oapixâra morobixabu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5278--5281
+
  []
 
 
@@ -4157,8 +4362,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [172]
-Overfull \hbox (3.8706pt too wide) in paragraph at lines 5343--5350
-\TU/EBGaramond(0)/m/n/12 quacumque Civitate, Oppido, vel Pago, ubi
+Overfull \hbox (7.1778pt too wide) in paragraph at lines 5293--5295
+[]\TU/EBGaramond(0)/m/n/12 Senhor, da Purificação , &T Naciímento
+ []
+
+
+Overfull \hbox (14.97862pt too wide) in paragraph at lines 5301--5304
+\TU/EBGaramond(0)/m/n/12 , ou de co/lume mais univer al da Igreja Catho-
+ []
+
+
+Overfull \hbox (2.58258pt too wide) in paragraph at lines 5309--5314
+\TU/EBGaramond(0)/m/n/12 da Senhora , poz expre/Jamente do preceito
+ []
+
+
+Overfull \hbox (16.55188pt too wide) in paragraph at lines 5309--5314
+\TU/EBGaramond(0)/m/n/12 con/lituição, que começa. UniverSfa,expedida
+ []
+
+
+Overfull \hbox (16.84258pt too wide) in paragraph at lines 5315--5316
+[]\TU/EBGaramond(0)/m/n/12 Álém defles ordena na mefma con/lituição
  []
 
 
@@ -4169,6 +4394,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [173]
+Overfull \hbox (1.26659pt too wide) in paragraph at lines 5342--5343
+[]\TU/EBGaramond(0)/m/n/12 citado, he a Padroeira do Reyno de Por-
+ []
+
+
+Overfull \hbox (1.7178pt too wide) in paragraph at lines 5350--5351
+[]\TU/EBGaramond(0)/m/n/12 Decreto publico, ET folemne, com que
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -4176,19 +4410,68 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[174] (./catecismo_araujo_1696.aux)
+[174]
+Overfull \hbox (6.61859pt too wide) in paragraph at lines 5361--5362
+[]\TU/EBGaramond(0)/m/n/12 e/tados do Reyno,ainda conforme o De-
+ []
+
+
+Overfull \hbox (3.0106pt too wide) in paragraph at lines 5369--5371
+[]\TU/EBGaramond(0)/m/n/12 Virgem Senhora Noſſa, traz por extenfo
+ []
+
+
+Overfull \hbox (1.1378pt too wide) in paragraph at lines 5372--5373
+[]\TU/EBGaramond(0)/m/n/12 E he coufa tão decente,&’ ju/la celebrar
+ []
+
+
+Overfull \hbox (5.13057pt too wide) in paragraph at lines 5374--5376
+[]\TU/EBGaramond(0)/m/n/12 trocinio encomendão ſeu amparo os po-
+ []
+
+
+Overfull \hbox (10.08658pt too wide) in paragraph at lines 5381--5384
+\TU/EBGaramond(0)/m/n/12 tes,em que não obrigao e/tas Con/lituiçõens,
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[175]
+Overfull \hbox (3.31058pt too wide) in paragraph at lines 5385--5387
+\TU/EBGaramond(0)/m/n/12 celebrar com SJeſta de guarda os Oragos,ET
+ []
+
+
+Overfull \hbox (8.82658pt too wide) in paragraph at lines 5395--5398
+\TU/EBGaramond(0)/m/n/12 rarnos, & procurarnos maiores beneficios,do
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[176] (./catecismo_araujo_1696.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6979 strings out of 474831
- 170279 string characters out of 5758353
+ 6977 strings out of 474832
+ 171584 string characters out of 5752144
  1926109 words of memory out of 5000000
- 28963 multiletter control sequences out of 15000+600000
- 559666 words of font info for 78 fonts, out of 8000000 for 9000
+ 28961 multiletter control sequences out of 15000+600000
+ 559658 words of font info for 77 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  79i,12n,93p,338b,430s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on catecismo_araujo_1696.pdf (175 pages).
+Output written on catecismo_araujo_1696.pdf (177 pages).

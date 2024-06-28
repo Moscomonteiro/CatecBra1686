@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.15)  28 JUN 2024 17:02
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.15)  28 JUN 2024 08:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -416,9 +416,9 @@ Cap\'{\i }tulo 1.
 Package lettrine.sty Info: Targeted height = 63.436pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 70.47406pt (\zall {I});
-(lettrine.sty)             reported on input line 246.
+(lettrine.sty)             reported on input line 245.
 
-Overfull \hbox (3.96461pt too wide) in paragraph at lines 246--251
+Overfull \hbox (3.96461pt too wide) in paragraph at lines 245--250
 \TU/EBGaramond(0)/m/n/12 JESU, xe poçánga ymána 
  []
 
@@ -435,11 +435,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.93594pt (T);
-(lettrine.sty)             reported on input line 290.
-
-Underfull \hbox (badness 10000) in paragraph at lines 290--295
-
- []
+(lettrine.sty)             reported on input line 289.
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.70613pt (A);
+(lettrine.sty)             reported on input line 297.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -449,11 +449,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
-Package lettrine.sty Info: Targeted height = 19.936pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 19.70613pt (A);
-(lettrine.sty)             reported on input line 300.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -462,7 +457,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 354--359
+Underfull \hbox (badness 10000) in paragraph at lines 351--356
 
  []
 
@@ -477,15 +472,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.9018pt (P);
-(lettrine.sty)             reported on input line 368.
+(lettrine.sty)             reported on input line 365.
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (X);
-(lettrine.sty)             reported on input line 377.
-
-Underfull \hbox (badness 10000) in paragraph at lines 388--397
-
- []
+(lettrine.sty)             reported on input line 374.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -498,11 +489,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 412.
+(lettrine.sty)             reported on input line 408.
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (X);
-(lettrine.sty)             reported on input line 421.
+(lettrine.sty)             reported on input line 417.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -526,29 +517,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.07416pt (S);
-(lettrine.sty)             reported on input line 464.
+(lettrine.sty)             reported on input line 460.
 
-Overfull \hbox (2.2746pt too wide) in paragraph at lines 464--492
+Overfull \hbox (2.2746pt too wide) in paragraph at lines 460--488
 \TU/EBGaramond(0)/m/n/12 idade, que já hoje eſtranha o commum idio-
  []
 
 
-Overfull \hbox (0.67857pt too wide) in paragraph at lines 464--492
+Overfull \hbox (0.67857pt too wide) in paragraph at lines 460--488
 \TU/EBGaramond(0)/m/n/12 ſe ſuſtituiraõ outras com termos,& palavras
  []
 
 
-Overfull \hbox (1.33057pt too wide) in paragraph at lines 464--492
+Overfull \hbox (1.33057pt too wide) in paragraph at lines 460--488
 \TU/EBGaramond(0)/m/n/12 ca introduſio nos celeiros de Chriſto: como
  []
 
 
-Overfull \hbox (0.39056pt too wide) in paragraph at lines 464--492
+Overfull \hbox (0.39056pt too wide) in paragraph at lines 460--488
 \TU/EBGaramond(0)/m/n/12 tidas converſoẽs venturoſo aumento ao Im-
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 464--492
+Underfull \hbox (badness 2608) in paragraph at lines 460--488
 \TU/EBGaramond(0)/m/n/12 ligioſiſſima empreſa da maior gloria de
  []
 
@@ -574,11 +565,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.75816pt (E);
-(lettrine.sty)             reported on input line 504.
-
-Overfull \hbox (4.3732pt too wide) in paragraph at lines 504--513
-\TU/EBGaramond(0)/m/n/12 lingoa Braſilica. Eſscreveſe Nha,nhe,&c. pa-
- []
+(lettrine.sty)             reported on input line 500.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -588,17 +575,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [14]
-Overfull \hbox (3.98259pt too wide) in paragraph at lines 540--552
+Overfull \hbox (3.98259pt too wide) in paragraph at lines 532--544
 []\TU/EBGaramond(0)/m/n/12 K, caracter Grego ſe introduſio aqui por
  []
 
 
-Overfull \hbox (3.55061pt too wide) in paragraph at lines 540--552
+Overfull \hbox (3.55061pt too wide) in paragraph at lines 532--544
 \TU/EBGaramond(0)/m/n/12 dar a muitas deſta lingoa, como Okena, por-
  []
 
 
-Overfull \hbox (1.44391pt too wide) in paragraph at lines 553--558
+Overfull \hbox (2.42259pt too wide) in paragraph at lines 532--544
+\TU/EBGaramond(0)/m/n/12 quaes ſaõ, Eboqué, eis aqui: Aquéa, aquela:
+ []
+
+
+Overfull \hbox (1.44391pt too wide) in paragraph at lines 545--550
 \TU/EBGaramond(0)/m/n/12 tugueza, Gigante. Mas quando tiver H, im-
  []
 
@@ -610,22 +602,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [15]
-Overfull \hbox (0.2746pt too wide) in paragraph at lines 565--578
+Overfull \hbox (0.2746pt too wide) in paragraph at lines 557--570
 \TU/EBGaramond(0)/m/n/12 meſma vocalidade ſe enunciará, quando no
  []
 
 
-Overfull \hbox (1.4946pt too wide) in paragraph at lines 565--578
+Overfull \hbox (1.4946pt too wide) in paragraph at lines 557--570
 \TU/EBGaramond(0)/m/n/12 principio da diçaõ eſtiver antes de vogal, co-
  []
 
 
-Underfull \hbox (badness 2680) in paragraph at lines 565--578
+Underfull \hbox (badness 2680) in paragraph at lines 557--570
 \TU/EBGaramond(0)/m/n/12 Seguindo qualquer vogal fará com ella
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 565--578
+Underfull \hbox (badness 10000) in paragraph at lines 557--570
 \TU/EBGaramond(0)/m/n/12 para diphtongo, a vogal antecedente
  []
 
@@ -637,7 +629,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [16]
-Overfull \hbox (3.03062pt too wide) in paragraph at lines 592--604
+Overfull \hbox (3.03062pt too wide) in paragraph at lines 584--596
 \TU/EBGaramond(0)/m/n/12 rem dous VV, ſobre outra vogal, fica liquido
  []
 
@@ -649,12 +641,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [17]
-Overfull \hbox (5.06258pt too wide) in paragraph at lines 605--621
+Overfull \hbox (5.06258pt too wide) in paragraph at lines 597--613
 \TU/EBGaramond(0)/m/n/12 eſcreveraõ Ig.Porém inſufficientemente hũs,
  []
 
 
-Overfull \hbox (3.55061pt too wide) in paragraph at lines 622--627
+Overfull \hbox (3.55061pt too wide) in paragraph at lines 614--619
 \TU/EBGaramond(0)/m/n/12 ſente neſtas palavras Portuguezas, vaã couſa,
  []
 
@@ -666,22 +658,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [18]
-Overfull \hbox (1.81856pt too wide) in paragraph at lines 628--643
+Overfull \hbox (1.81856pt too wide) in paragraph at lines 620--635
 \TU/EBGaramond(0)/m/n/12 dição: pois he neceſſario eſte conhecimento
  []
 
 
-Overfull \hbox (1.6239pt too wide) in paragraph at lines 644--665
+Overfull \hbox (1.6239pt too wide) in paragraph at lines 636--657
 \TU/EBGaramond(0)/m/n/12 aguda, como Túbã, pay. Na antepenultima
  []
 
 
-Overfull \hbox (1.45058pt too wide) in paragraph at lines 644--665
+Overfull \hbox (1.45058pt too wide) in paragraph at lines 636--657
 \TU/EBGaramond(0)/m/n/12 tá, reſo, fallo com Deos: & neſte Açuguyóc,
  []
 
 
-Overfull \hbox (2.10925pt too wide) in paragraph at lines 644--665
+Overfull \hbox (2.10925pt too wide) in paragraph at lines 636--657
 \TU/EBGaramond(0)/m/n/12 ſempre he aguda; naõ ſe lhe poem com tudo
  []
 
@@ -693,7 +685,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [19]
-Overfull \hbox (0.41058pt too wide) in paragraph at lines 666--689
+Overfull \hbox (0.41058pt too wide) in paragraph at lines 658--681
 \TU/EBGaramond(0)/m/n/12 meſmas palavras, & por neceſſidade ſe abra-
  []
 
@@ -719,19 +711,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.07416pt (O);
-(lettrine.sty)             reported on input line 699.
+(lettrine.sty)             reported on input line 691.
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--709
+Underfull \hbox (badness 10000) in paragraph at lines 691--701
 \TU/EBGaramond(0)/m/n/12 ſe torne a imprimir o Cateciſmo da
  []
 
 
-Overfull \hbox (2.5586pt too wide) in paragraph at lines 699--709
+Overfull \hbox (2.5586pt too wide) in paragraph at lines 691--701
 \TU/EBGaramond(0)/m/n/12 Doutrina Chriſtãa na lingoa do Braſil, com-
  []
 
 
-Overfull \hbox (10.6986pt too wide) in paragraph at lines 699--709
+Overfull \hbox (10.6986pt too wide) in paragraph at lines 691--701
 \TU/EBGaramond(0)/m/n/12 panhia, reviſto, & approvado por Padres dou-
  []
 
@@ -748,9 +740,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.9018pt (P);
-(lettrine.sty)             reported on input line 721.
+(lettrine.sty)             reported on input line 713.
 
-Underfull \hbox (badness 5622) in paragraph at lines 721--733
+Underfull \hbox (badness 5622) in paragraph at lines 713--725
 \TU/EBGaramond(0)/m/n/12 maõ Provinvial deſta Provincia do
  []
 
@@ -767,34 +759,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.9018pt (P);
-(lettrine.sty)             reported on input line 746.
+(lettrine.sty)             reported on input line 738.
 
-Underfull \hbox (badness 3068) in paragraph at lines 746--771
+Underfull \hbox (badness 3068) in paragraph at lines 738--763
 \TU/EBGaramond(0)/m/n/12 Guſmaõ, Provincial deſta Provincia
  []
 
 
-Overfull \hbox (0.55458pt too wide) in paragraph at lines 746--771
+Overfull \hbox (0.55458pt too wide) in paragraph at lines 738--763
 \TU/EBGaramond(0)/m/n/12 emendado, aſſim dos erros da impreſſaõ an-
  []
 
 
-Overfull \hbox (4.19463pt too wide) in paragraph at lines 746--771
+Overfull \hbox (4.19463pt too wide) in paragraph at lines 738--763
 \TU/EBGaramond(0)/m/n/12 que paſſaraõ a termos mais cultos, nos quaes
  []
 
 
-Overfull \hbox (1.4506pt too wide) in paragraph at lines 746--771
+Overfull \hbox (1.4506pt too wide) in paragraph at lines 738--763
 \TU/EBGaramond(0)/m/n/12 ra as diſtinguir, nos ſentidos,& ſignificados;
  []
 
 
-Overfull \hbox (0.8026pt too wide) in paragraph at lines 746--771
+Overfull \hbox (0.8026pt too wide) in paragraph at lines 738--763
 \TU/EBGaramond(0)/m/n/12 & para iſſo ſervem as diverſas pontuaçoẽs,&
  []
 
 
-Overfull \hbox (2.81061pt too wide) in paragraph at lines 746--771
+Overfull \hbox (2.81061pt too wide) in paragraph at lines 738--763
 \TU/EBGaramond(0)/m/n/12 que fem elle pareceria ſuperfluidade, & con-
  []
 
@@ -806,17 +798,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24]
-Overfull \hbox (2.51859pt too wide) in paragraph at lines 772--782
+Overfull \hbox (2.51859pt too wide) in paragraph at lines 764--774
 \TU/EBGaramond(0)/m/n/12 mentos na materia da adminiſtraçaõ dos Sa-
  []
 
 
-Overfull \hbox (0.8306pt too wide) in paragraph at lines 772--782
+Overfull \hbox (0.8306pt too wide) in paragraph at lines 764--774
 \TU/EBGaramond(0)/m/n/12 ſingular luz aos operarios deſta vinha do Se-
  []
 
 
-Overfull \hbox (3.21461pt too wide) in paragraph at lines 772--782
+Overfull \hbox (3.21461pt too wide) in paragraph at lines 764--774
 \TU/EBGaramond(0)/m/n/12 nhor, & notavel proveito a áquelles, em cuja
  []
 
@@ -834,20 +826,20 @@ Cap\'{\i }tulo 2.
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.07416pt (O);
-(lettrine.sty)             reported on input line 798.
+(lettrine.sty)             reported on input line 790.
 
-Underfull \hbox (badness 1648) in paragraph at lines 798--804
+Underfull \hbox (badness 1648) in paragraph at lines 790--796
 \TU/EBGaramond(0)/m/n/12 Tiago Qualificador do Santo Offi-
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.75816pt (V);
-(lettrine.sty)             reported on input line 817.
+(lettrine.sty)             reported on input line 809.
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.07416pt (O);
-(lettrine.sty)             reported on input line 828.
+(lettrine.sty)             reported on input line 820.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -859,19 +851,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.9018pt (P);
-(lettrine.sty)             reported on input line 847.
+(lettrine.sty)             reported on input line 839.
 
-Overfull \hbox (0.3106pt too wide) in paragraph at lines 847--865
+Overfull \hbox (0.3106pt too wide) in paragraph at lines 839--857
 \TU/EBGaramond(0)/m/n/12 Provincia, que tinhaõ paſtado áquellas par-
  []
 
 
-Overfull \hbox (0.3506pt too wide) in paragraph at lines 847--865
+Overfull \hbox (0.3506pt too wide) in paragraph at lines 839--857
 \TU/EBGaramond(0)/m/n/12 priedade, que deſejei acharme nos annos da
  []
 
 
-Overfull \hbox (0.25461pt too wide) in paragraph at lines 847--865
+Overfull \hbox (0.25461pt too wide) in paragraph at lines 839--857
 \TU/EBGaramond(0)/m/n/12 ceo, que o preſente Cateciſmo naõ ſómente
  []
 
@@ -886,15 +878,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.75816pt (V);
-(lettrine.sty)             reported on input line 871.
+(lettrine.sty)             reported on input line 863.
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.9018pt (P);
-(lettrine.sty)             reported on input line 886.
+(lettrine.sty)             reported on input line 878.
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.9018pt (P);
-(lettrine.sty)             reported on input line 896.
+(lettrine.sty)             reported on input line 888.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -919,7 +911,7 @@ Cap\'{\i }tulo 3.
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.9018pt (P);
-(lettrine.sty)             reported on input line 916.
+(lettrine.sty)             reported on input line 908.
 
 Underfull \vbox (badness 4713) has occurred while \output is active []
 
@@ -945,7 +937,7 @@ File: ../images/08.jesus.png Graphic file (type bmp)
 File: ../images/09.livro1.png Graphic file (type bmp)
 <../images/09.livro1.png>
 
-Overfull \hbox (2.68863pt too wide) in paragraph at lines 950--953
+Overfull \hbox (2.68863pt too wide) in paragraph at lines 942--945
  [] 
  []
 
@@ -961,26 +953,26 @@ Cap\'{\i }tulo 4.
 Package lettrine.sty Info: Targeted height = 63.436pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 63.26172pt (\zall {S});
-(lettrine.sty)             reported on input line 979.
+(lettrine.sty)             reported on input line 971.
 
-Overfull \hbox (2.51675pt too wide) in paragraph at lines 979--983
+Overfull \hbox (2.51675pt too wide) in paragraph at lines 971--975
 \TU/EBGaramond(0)/m/n/12 orepy cyrõ iepé, Tupã ore iár,
  []
 
 
-Overfull \hbox (0.97006pt too wide) in paragraph at lines 979--983
-\TU/EBGaramond(0)/m/n/12 oré amotarëymbâra çüí. Tû-
+Overfull \hbox (0.97006pt too wide) in paragraph at lines 971--975
+\TU/EBGaramond(0)/m/n/12 oré amotarëymbâra çúí. Tû-
  []
 
 
-Overfull \hbox (2.31274pt too wide) in paragraph at lines 979--983
+Overfull \hbox (2.31274pt too wide) in paragraph at lines 971--975
 \TU/EBGaramond(0)/m/n/12 ba, Täyra, Eſpirito Santo réra
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.07416pt (O);
-(lettrine.sty)             reported on input line 989.
+(lettrine.sty)             reported on input line 981.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -992,23 +984,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.70613pt (A);
-(lettrine.sty)             reported on input line 999.
+(lettrine.sty)             reported on input line 991.
 
-Underfull \hbox (badness 3240) in paragraph at lines 999--1004
+Underfull \hbox (badness 3240) in paragraph at lines 991--996
 []\TU/EBGaramond(0)/m/sc/12 V\TU/EBGaramond(0)/m/n/12 e Marîa, graça recé tynycémbäé:
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.07416pt (S);
-(lettrine.sty)             reported on input line 1008.
+(lettrine.sty)             reported on input line 1000.
 
-Overfull \hbox (4.46788pt too wide) in paragraph at lines 1008--1019
+Overfull \hbox (4.46788pt too wide) in paragraph at lines 1000--1011
 \TU/EBGaramond(0)/m/n/12 byramo. Ndébe oronhëangherúr orépöa cé-
  []
 
 
-Underfull \hbox (badness 5161) in paragraph at lines 1008--1019
+Underfull \hbox (badness 5161) in paragraph at lines 1000--1011
 \TU/EBGaramond(0)/m/n/12 guâba pupé. Enëĩ ore recé ierureçár
  []
 
@@ -1023,31 +1015,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.70613pt (A);
-(lettrine.sty)             reported on input line 1023.
+(lettrine.sty)             reported on input line 1015.
 
-Overfull \hbox (0.24107pt too wide) in paragraph at lines 1023--1038
+Overfull \hbox (0.24107pt too wide) in paragraph at lines 1015--1030
 \TU/EBGaramond(0)/m/n/12 tiruã monhanga eicatúbä’e, ybáca, yby
  []
 
 
-Overfull \hbox (1.33058pt too wide) in paragraph at lines 1023--1038
+Overfull \hbox (1.33058pt too wide) in paragraph at lines 1015--1030
 \TU/EBGaramond(0)/m/n/12 to imonhângâpe pitangamo onhemonhan-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1023--1038
+Underfull \hbox (badness 10000) in paragraph at lines 1015--1030
 \TU/EBGaramond(0)/m/n/12 cecôreme cerecomémoãbyramo cecóu:
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 1023--1038
+Underfull \hbox (badness 1635) in paragraph at lines 1015--1030
 \TU/EBGaramond(0)/m/n/12 ijucápyramo, itymimbyramo. Ogoegyb
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.04543pt (C);
-(lettrine.sty)             reported on input line 1042.
+(lettrine.sty)             reported on input line 1034.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1060,12 +1052,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [35]
-Overfull \hbox (4.25458pt too wide) in paragraph at lines 1064--1066
+Overfull \hbox (4.25458pt too wide) in paragraph at lines 1056--1058
 []\TU/EBGaramond(0)/m/n/12 Arobiár yby apytéripe igoegybagoêra, acé
  []
 
 
-Overfull \hbox (4.5306pt too wide) in paragraph at lines 1064--1066
+Overfull \hbox (4.5306pt too wide) in paragraph at lines 1056--1058
 \TU/EBGaramond(0)/m/n/12 rúbypy caräíbetá angoéra äépe turâma oça-
  []
 
@@ -1077,38 +1069,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [36]
-Overfull \hbox (2.83458pt too wide) in paragraph at lines 1067--1069
+Overfull \hbox (2.83458pt too wide) in paragraph at lines 1059--1061
 []\TU/EBGaramond(0)/m/n/12 Arobiár ybákype ïieupiragoéra Tupã Tû-
  []
 
 
-Overfull \hbox (5.69858pt too wide) in paragraph at lines 1069--1072
+Overfull \hbox (5.69858pt too wide) in paragraph at lines 1061--1064
 []\TU/EBGaramond(0)/m/n/12 Arobiár árapapâne turãgoâma oicobébäe,
  []
 
 
-Overfull \hbox (0.48659pt too wide) in paragraph at lines 1069--1072
+Overfull \hbox (0.48659pt too wide) in paragraph at lines 1061--1064
 \TU/EBGaramond(0)/m/n/12 omanõbäepoéra pabẽ recó catúagoéra, ce-
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.93053pt (D);
-(lettrine.sty)             reported on input line 1077.
+(lettrine.sty)             reported on input line 1069.
 
-Overfull \hbox (0.14256pt too wide) in paragraph at lines 1088--1089
+Overfull \hbox (0.14256pt too wide) in paragraph at lines 1080--1081
 []\TU/EBGaramond(0)/m/n/12 Enhemomotárumé nde rapixára remire-
  []
 
 
-Overfull \hbox (0.30258pt too wide) in paragraph at lines 1096--1097
+Overfull \hbox (0.30258pt too wide) in paragraph at lines 1088--1089
 []\TU/EBGaramond(0)/m/n/12 Oieauçûba iábé acé öapixâra rauçûbanó. 
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.07416pt (S);
-(lettrine.sty)             reported on input line 1102.
+(lettrine.sty)             reported on input line 1094.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1117,28 +1109,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [37]
-Overfull \hbox (3.07857pt too wide) in paragraph at lines 1108--1110
+Overfull \hbox (3.07857pt too wide) in paragraph at lines 1100--1102
 []\TU/EBGaramond(0)/m/n/12 Santa Madre Igreja iecüacúpoâia iabiõ ie-
  []
 
 
-Overfull \hbox (13.59058pt too wide) in paragraph at lines 1110--1112
+Overfull \hbox (13.59058pt too wide) in paragraph at lines 1102--1104
 []\TU/EBGaramond(0)/m/n/12 Opácombó iabiõ Tupã çupé oiepé acémbäe
  []
 
 
-Overfull \hbox (6.20656pt too wide) in paragraph at lines 1110--1112
+Overfull \hbox (6.20656pt too wide) in paragraph at lines 1102--1104
 \TU/EBGaramond(0)/m/n/12 moiaóca: oemitymbuérypy pupé Tupã po-
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.75816pt (Y);
-(lettrine.sty)             reported on input line 1120.
+(lettrine.sty)             reported on input line 1112.
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.07416pt (S);
-(lettrine.sty)             reported on input line 1134.
+(lettrine.sty)             reported on input line 1126.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1150,7 +1142,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1150.
+(lettrine.sty)             reported on input line 1142.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1163,9 +1155,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.70613pt (A);
-(lettrine.sty)             reported on input line 1170.
+(lettrine.sty)             reported on input line 1162.
 
-Underfull \hbox (badness 1231) in paragraph at lines 1187--1188
+Underfull \hbox (badness 1231) in paragraph at lines 1179--1180
 []\TU/EBGaramond(0)/m/n/12 Abá marã cecó agoérĩ recé nheranëy-
  []
 
@@ -1180,28 +1172,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.93594pt (T);
-(lettrine.sty)             reported on input line 1198.
+(lettrine.sty)             reported on input line 1190.
 
-Underfull \hbox (badness 1642) in paragraph at lines 1198--1198
+Underfull \hbox (badness 1642) in paragraph at lines 1190--1190
 []\TU/EBGaramond(0)/m/sc/12 E\TU/EBGaramond(0)/m/n/12 có catú eté rerecoâra, öemimo-
  []
 
 
-Overfull \hbox (2.17859pt too wide) in paragraph at lines 1201--1203
+Overfull \hbox (2.17859pt too wide) in paragraph at lines 1193--1195
 []\TU/EBGaramond(0)/m/n/12 Tecó catú eté rerecoâra, onheranëymbäe,
  []
 
 
-Overfull \hbox (15.21059pt too wide) in paragraph at lines 1211--1213
+Overfull \hbox (15.21059pt too wide) in paragraph at lines 1203--1205
 []\TU/EBGaramond(0)/m/n/12 Tecó catú eté rerecoâra, oporomonhyrõbäe,
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.93594pt (T);
-(lettrine.sty)             reported on input line 1225.
+(lettrine.sty)             reported on input line 1217.
 
-Overfull \hbox (7.44258pt too wide) in paragraph at lines 1228--1229
+Overfull \hbox (7.44258pt too wide) in paragraph at lines 1220--1221
 []\TU/EBGaramond(0)/m/n/12 Tupã omotecocüâba rupí mbäé mõmbëú. 
  []
 
@@ -1216,15 +1208,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.93594pt (T);
-(lettrine.sty)             reported on input line 1241.
+(lettrine.sty)             reported on input line 1233.
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.93594pt (T);
-(lettrine.sty)             reported on input line 1253.
+(lettrine.sty)             reported on input line 1245.
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1266.
+(lettrine.sty)             reported on input line 1258.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1237,22 +1229,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1278.
+(lettrine.sty)             reported on input line 1270.
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.93594pt (T);
-(lettrine.sty)             reported on input line 1291.
+(lettrine.sty)             reported on input line 1283.
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (X);
-(lettrine.sty)             reported on input line 1307.
+(lettrine.sty)             reported on input line 1299.
 
-Overfull \hbox (2.91597pt too wide) in paragraph at lines 1307--1314
+Overfull \hbox (2.91597pt too wide) in paragraph at lines 1299--1306
 []\TU/EBGaramond(0)/m/sc/12 E\TU/EBGaramond(0)/m/n/12 rubiguy Tupã eté, opácatú mbäé çau-
  []
 
 
-Overfull \hbox (5.53061pt too wide) in paragraph at lines 1307--1314
+Overfull \hbox (5.53061pt too wide) in paragraph at lines 1299--1306
 \TU/EBGaramond(0)/m/n/12 bäe çocé nde recó cüâpa, xe pyápe catú aimö-
  []
 
@@ -1267,34 +1259,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.70613pt (A);
-(lettrine.sty)             reported on input line 1318.
+(lettrine.sty)             reported on input line 1310.
 
-Overfull \hbox (1.30507pt too wide) in paragraph at lines 1318--1328
+Overfull \hbox (1.30507pt too wide) in paragraph at lines 1310--1320
 \TU/EBGaramond(0)/m/n/12 tiruã monhânga ëicatúbäe çupé, Santa
  []
 
 
-Overfull \hbox (2.15059pt too wide) in paragraph at lines 1318--1328
+Overfull \hbox (2.15059pt too wide) in paragraph at lines 1310--1320
 \TU/EBGaramond(0)/m/n/12 tos Apoſtolos Saõ Pedro, Saõ Paulo çupébé,
  []
 
 
-Overfull \hbox (3.2226pt too wide) in paragraph at lines 1318--1328
+Overfull \hbox (3.2226pt too wide) in paragraph at lines 1310--1320
 \TU/EBGaramond(0)/m/n/12 opacatpu Santos çupébé, ndêbo bé, Päí aba-
  []
 
 
-Overfull \hbox (15.53056pt too wide) in paragraph at lines 1318--1328
+Overfull \hbox (15.53056pt too wide) in paragraph at lines 1310--1320
 \TU/EBGaramond(0)/m/n/12 bamo guitecómemoâmo, xe angaipábetéramo.
  []
 
 
-Overfull \hbox (42.15858pt too wide) in paragraph at lines 1318--1328
+Overfull \hbox (42.15858pt too wide) in paragraph at lines 1310--1320
 \TU/EBGaramond(0)/m/n/12 Emonãnamo aieruré Santa Maria a-babycagoerëyma
  []
 
 
-Overfull \hbox (3.2266pt too wide) in paragraph at lines 1318--1328
+Overfull \hbox (3.2266pt too wide) in paragraph at lines 1310--1320
 \TU/EBGaramond(0)/m/n/12 Joaõ Bautiſta çupebé, Santos Apoſtolos Saõ
  []
 
@@ -1310,56 +1302,56 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [44]
 Cap\'{\i }tulo 5.
 
-Overfull \hbox (3.33795pt too wide) in paragraph at lines 1363--1364
+Overfull \hbox (3.33795pt too wide) in paragraph at lines 1355--1356
 []\TU/EBGaramond(0)/m/n/12 Meſtre. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1363--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1355--1356
 
  []
 
 
-Overfull \hbox (1.12996pt too wide) in paragraph at lines 1363--1364
+Overfull \hbox (1.12996pt too wide) in paragraph at lines 1355--1356
 \TU/EBGaramond(0)/m/n/12 Diſcip. 
  []
 
 
-Overfull \hbox (3.33795pt too wide) in paragraph at lines 1363--1364
+Overfull \hbox (3.33795pt too wide) in paragraph at lines 1355--1356
 \TU/EBGaramond(0)/m/n/12 Meſtre. 
  []
 
 
-Overfull \hbox (1.12996pt too wide) in paragraph at lines 1363--1364
+Overfull \hbox (1.12996pt too wide) in paragraph at lines 1355--1356
 \TU/EBGaramond(0)/m/n/12 Diſcip. 
  []
 
 Package lettrine.sty Info: Targeted height = 63.436pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 56.23325pt (\zall {M});
-(lettrine.sty)             reported on input line 1368.
+(lettrine.sty)             reported on input line 1360.
 
-Underfull \hbox (badness 5345) in paragraph at lines 1368--1375
+Underfull \hbox (badness 5345) in paragraph at lines 1360--1367
 []\TU/EBGaramond(0)/m/sc/12 B\TU/EBGaramond(0)/m/n/12 äépe Chriſtaõs iecüa-
  []
 
 
-Overfull \hbox (15.3698pt too wide) in paragraph at lines 1362--1376
+Overfull \hbox (15.3698pt too wide) in paragraph at lines 1354--1368
 | [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1362--1376
+Underfull \hbox (badness 10000) in paragraph at lines 1354--1368
 
  []
 
 
-Underfull \hbox (badness 6910) in paragraph at lines 1379--1383
+Underfull \hbox (badness 6910) in paragraph at lines 1371--1375
 \TU/EBGaramond(0)/m/n/12 pé, Tupã oréiar, oré amotarëymbâra
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 1379--1383
+Underfull \hbox (badness 1715) in paragraph at lines 1371--1375
 \TU/EBGaramond(0)/m/n/12 çüí: Tuba, Täyra, Eſpirito Santo rêra
  []
 
@@ -1371,17 +1363,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [45]
-Overfull \hbox (2.15057pt too wide) in paragraph at lines 1383--1384
+Overfull \hbox (2.15057pt too wide) in paragraph at lines 1375--1376
 []\TU/EBGaramond(0)/m/n/12 Maránamopé acé ocybápe iobaçâba möí-
  []
 
 
-Underfull \hbox (badness 1038) in paragraph at lines 1388--1390
+Underfull \hbox (badness 1038) in paragraph at lines 1380--1382
 []\TU/EBGaramond(0)/m/n/12 Táxepëá Tupã tecó angaipâba çüí acé
  []
 
 
-Overfull \hbox (6.63058pt too wide) in paragraph at lines 1391--1393
+Overfull \hbox (6.63058pt too wide) in paragraph at lines 1383--1385
 \TU/EBGaramond(0)/m/n/12 rito Santo, Moçapyr abá, oiepé Tubã mom-
  []
 
@@ -1393,22 +1385,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [46]
-Underfull \hbox (badness 2293) in paragraph at lines 1412--1414
+Underfull \hbox (badness 2293) in paragraph at lines 1404--1406
 []\TU/EBGaramond(0)/m/n/12 Cecé imboiaripyramo omanômo oie-
  []
 
 
-Overfull \hbox (1.97458pt too wide) in paragraph at lines 1414--1416
+Overfull \hbox (1.97458pt too wide) in paragraph at lines 1406--1408
 []\TU/EBGaramond(0)/m/n/12 Oierokype acé iandé iâra räangâba çu-pé,
  []
 
 
-Overfull \hbox (1.74258pt too wide) in paragraph at lines 1419--1421
+Overfull \hbox (1.74258pt too wide) in paragraph at lines 1411--1413
 []\TU/EBGaramond(0)/m/n/12 Marã, itánhépe coipó ybyrá, nhäûma çüí
  []
 
 
-Overfull \hbox (0.35457pt too wide) in paragraph at lines 1421--1423
+Overfull \hbox (0.35457pt too wide) in paragraph at lines 1413--1415
 []\TU/EBGaramond(0)/m/n/12 Näâni, çäangabijâra é: çäangábamo cecó
  []
 
@@ -1423,9 +1415,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1434.
+(lettrine.sty)             reported on input line 1426.
 
-Underfull \hbox (badness 3407) in paragraph at lines 1449--1451
+Underfull \hbox (badness 3407) in paragraph at lines 1441--1443
 []\TU/EBGaramond(0)/m/n/12 Cunhã angaturâma ababycagoerëyma
  []
 
@@ -1440,7 +1432,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.70613pt (A);
-(lettrine.sty)             reported on input line 1470.
+(lettrine.sty)             reported on input line 1462.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1450,7 +1442,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [49]
-Overfull \hbox (1.40657pt too wide) in paragraph at lines 1493--1494
+Overfull \hbox (1.40657pt too wide) in paragraph at lines 1485--1486
 []\TU/EBGaramond(0)/m/n/12 Mbäérâma recépe Tupã imëenghi acébé? 
  []
 
@@ -1462,12 +1454,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [50]
-Overfull \hbox (2.87057pt too wide) in paragraph at lines 1517--1519
+Overfull \hbox (2.87057pt too wide) in paragraph at lines 1509--1511
 \TU/EBGaramond(0)/m/n/12 oguauçûme,oiâbo,ixe omöetéreme oiâbo. 
  []
 
 
-Overfull \hbox (18.8666pt too wide) in paragraph at lines 1529--1531
+Overfull \hbox (18.8666pt too wide) in paragraph at lines 1521--1523
 []\TU/EBGaramond(0)/m/n/12 Marã ëípe acé Tupã okype oikeâbo, y caräíba
  []
 
@@ -1482,9 +1474,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1560.
+(lettrine.sty)             reported on input line 1552.
 
-Underfull \hbox (badness 2401) in paragraph at lines 1564--1566
+Underfull \hbox (badness 2401) in paragraph at lines 1556--1558
 []\TU/EBGaramond(0)/m/n/12 Iandé iâra JESUS Chriſto äé oçäang
  []
 
@@ -1496,7 +1488,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [52]
-Overfull \hbox (0.55856pt too wide) in paragraph at lines 1567--1568
+Overfull \hbox (0.55856pt too wide) in paragraph at lines 1559--1560
 []\TU/EBGaramond(0)/m/n/12 Tupã monghetá recé iandé mböébo nhé. 
  []
 
@@ -1511,9 +1503,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1609.
+(lettrine.sty)             reported on input line 1601.
 
-Underfull \hbox (badness 1694) in paragraph at lines 1609--1609
+Underfull \hbox (badness 1694) in paragraph at lines 1601--1601
 \TU/EBGaramond(0)/m/n/12 Ybákype, ybype, opacatú mbäé
  []
 
@@ -1528,7 +1520,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1628.
+(lettrine.sty)             reported on input line 1620.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1538,19 +1530,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [55]
-Underfull \hbox (badness 6825) in paragraph at lines 1642--1644
+Underfull \hbox (badness 6825) in paragraph at lines 1634--1636
 []\TU/EBGaramond(0)/m/n/12 Aëpe Chriſtaõs Tupã nhëêngabyâra,
  []
 
 
-Overfull \hbox (0.27858pt too wide) in paragraph at lines 1644--1646
+Overfull \hbox (0.27858pt too wide) in paragraph at lines 1636--1638
 []\TU/EBGaramond(0)/m/n/12 Aë ipó Tupã noimöangaturâmi imonga-
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1652.
+(lettrine.sty)             reported on input line 1644.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1562,14 +1554,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1680.
+(lettrine.sty)             reported on input line 1672.
 
-Underfull \hbox (badness 1708) in paragraph at lines 1685--1687
+Underfull \hbox (badness 1708) in paragraph at lines 1677--1679
 []\TU/EBGaramond(0)/m/n/12 Noimomarã mirĩ angâipe ybakygoâra
  []
 
 
-Overfull \hbox (0.73058pt too wide) in paragraph at lines 1691--1693
+Overfull \hbox (0.73058pt too wide) in paragraph at lines 1683--1685
 []\TU/EBGaramond(0)/m/n/12 Marãnamobépe acé tonhemonháng nde
  []
 
@@ -1584,7 +1576,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1704.
+(lettrine.sty)             reported on input line 1696.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1597,19 +1589,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1734.
+(lettrine.sty)             reported on input line 1726.
 
-Underfull \hbox (badness 3780) in paragraph at lines 1734--1734
+Underfull \hbox (badness 3780) in paragraph at lines 1726--1726
 \TU/EBGaramond(0)/m/n/12 Nde nhyrõ oré angaipâba recé
  []
 
 
-Overfull \hbox (2.3906pt too wide) in paragraph at lines 1742--1745
+Overfull \hbox (2.3906pt too wide) in paragraph at lines 1734--1737
 \TU/EBGaramond(0)/m/n/12 gabyâbo, imöetêëyma mã, ëí, çauçubëyma
  []
 
 
-Overfull \hbox (16.97858pt too wide) in paragraph at lines 1745--1747
+Overfull \hbox (16.97858pt too wide) in paragraph at lines 1737--1739
 []\TU/EBGaramond(0)/m/n/12 Noimöepyixôépe acé öangaipagoêra imöacy
  []
 
@@ -1621,19 +1613,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [59]
-Overfull \hbox (3.96661pt too wide) in paragraph at lines 1757--1759
+Overfull \hbox (3.96661pt too wide) in paragraph at lines 1749--1751
 []\TU/EBGaramond(0)/m/n/12 Oipotá catú, emonã acêrecó recé, acé rau-
  []
 
 
-Overfull \hbox (9.55058pt too wide) in paragraph at lines 1759--1760
+Overfull \hbox (9.55058pt too wide) in paragraph at lines 1751--1752
 []\TU/EBGaramond(0)/m/n/12 Marã oecó pupépe erímbäé aipó recé iandé
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1769.
+(lettrine.sty)             reported on input line 1761.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1642,12 +1634,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [60]
-Overfull \hbox (2.71461pt too wide) in paragraph at lines 1775--1777
+Overfull \hbox (2.71461pt too wide) in paragraph at lines 1767--1769
 []\TU/EBGaramond(0)/m/n/12 Mbäé acy çupé, abá acé rerecómemoã çu-
  []
 
 
-Overfull \hbox (3.43857pt too wide) in paragraph at lines 1783--1785
+Overfull \hbox (3.43857pt too wide) in paragraph at lines 1775--1777
 []\TU/EBGaramond(0)/m/n/12 Oré mopyatãgatú iepé, toröâruméné nde
  []
 
@@ -1659,16 +1651,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [61]
-Overfull \hbox (0.21057pt too wide) in paragraph at lines 1805--1807
+Overfull \hbox (0.21057pt too wide) in paragraph at lines 1797--1799
 []\TU/EBGaramond(0)/m/n/12 Ndeitëé: Tupã opytybõneme é acé pyatã
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1812.
+(lettrine.sty)             reported on input line 1804.
 
-Overfull \hbox (3.32791pt too wide) in paragraph at lines 1825--1828
+Overfull \hbox (3.32791pt too wide) in paragraph at lines 1817--1820
 \TU/EBGaramond(0)/m/n/12 çumarã, coipó acé reté rupiâra çupé. Amẽ. 
  []
 
@@ -1680,16 +1672,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [62]
-Overfull \hbox (0.17058pt too wide) in paragraph at lines 1832--1833
+Overfull \hbox (0.17058pt too wide) in paragraph at lines 1824--1825
 []\TU/EBGaramond(0)/m/n/12 Marãgatúpe ace recóu Tupã ogoapiarão-
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1850.
+(lettrine.sty)             reported on input line 1842.
 
-Overfull \hbox (18.1986pt too wide) in paragraph at lines 1856--1857
+Overfull \hbox (18.1986pt too wide) in paragraph at lines 1848--1849
 []\TU/EBGaramond(0)/m/n/12 Abápe aipó Ave María oçaánghypy erímbäé? 
  []
 
@@ -1701,21 +1693,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [63]
-Underfull \hbox (badness 1975) in paragraph at lines 1864--1866
+Underfull \hbox (badness 1975) in paragraph at lines 1856--1858
 []\TU/EBGaramond(0)/m/n/12 Marã oicôbope Tupã Täyra ocyramo
  []
 
 
-Overfull \hbox (1.24658pt too wide) in paragraph at lines 1875--1877
+Overfull \hbox (1.24658pt too wide) in paragraph at lines 1867--1869
 \TU/EBGaramond(0)/m/n/12 ixupé, cunumĩ guaçú porangatú iabé nhé. 
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1891.
+(lettrine.sty)             reported on input line 1883.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1891--1891
+Underfull \hbox (badness 10000) in paragraph at lines 1883--1883
 []\TU/EBGaramond(0)/m/sc/12 A\TU/EBGaramond(0)/m/n/12 rã ëíbêpe Caräíbebé ixupé?
  []
 
@@ -1727,22 +1719,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [64]
-Overfull \hbox (2.73058pt too wide) in paragraph at lines 1894--1896
+Overfull \hbox (2.73058pt too wide) in paragraph at lines 1886--1888
 \TU/EBGaramond(0)/m/n/12 remimëênga öecó potaçâba rupí acé möin-
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 1900--1902
+Underfull \hbox (badness 1009) in paragraph at lines 1892--1894
 []\TU/EBGaramond(0)/m/n/12 Ipyatã mbäé äíba çocé Tupã nhëênga
  []
 
 
-Overfull \hbox (0.39857pt too wide) in paragraph at lines 1902--1903
+Overfull \hbox (0.39857pt too wide) in paragraph at lines 1894--1895
 []\TU/EBGaramond(0)/m/n/12 Ybákype oçobäérâma nhõpe graça ogue-
  []
 
 
-Overfull \hbox (4.59457pt too wide) in paragraph at lines 1907--1909
+Overfull \hbox (4.59457pt too wide) in paragraph at lines 1899--1901
 []\TU/EBGaramond(0)/m/n/12 Ipoxy, imembéc, anhânga poguyribo nhé
  []
 
@@ -1757,23 +1749,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1920.
+(lettrine.sty)             reported on input line 1912.
 
-Overfull \hbox (0.99858pt too wide) in paragraph at lines 1926--1928
+Overfull \hbox (0.99858pt too wide) in paragraph at lines 1918--1920
 \TU/EBGaramond(0)/m/n/12 çauçûpa, ixupe onhëênga, ceçápe xe recóu
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1937.
+(lettrine.sty)             reported on input line 1929.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1937--1937
+Underfull \hbox (badness 10000) in paragraph at lines 1929--1929
 []\TU/EBGaramond(0)/m/sc/12 A\TU/EBGaramond(0)/m/n/12 rã ëíbêpe Caräíbebé ixupé?
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1937--1937
+Underfull \hbox (badness 10000) in paragraph at lines 1929--1929
 \TU/EBGaramond(0)/m/n/12 Imombëú catupyramo ereicó
  []
 
@@ -1785,21 +1777,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [66]
-Underfull \hbox (badness 4981) in paragraph at lines 1943--1945
+Underfull \hbox (badness 4981) in paragraph at lines 1935--1937
 []\TU/EBGaramond(0)/m/n/12 Iandé rubypy recó angaipagoéra acé
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1957.
+(lettrine.sty)             reported on input line 1949.
 
-Overfull \hbox (3.70256pt too wide) in paragraph at lines 1959--1960
+Overfull \hbox (3.70256pt too wide) in paragraph at lines 1951--1952
 []\TU/EBGaramond(0)/m/n/12 Imembëú catúpyra abé nde membyra JE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1966--1967
+Underfull \hbox (badness 10000) in paragraph at lines 1958--1959
 
  []
 
@@ -1811,14 +1803,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [67]
-Underfull \hbox (badness 1603) in paragraph at lines 1976--1979
+Underfull \hbox (badness 1603) in paragraph at lines 1968--1971
 \TU/EBGaramond(0)/m/n/12 ragoêra, cëõ agoêra cecobe iebyagoêra,
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 1984.
+(lettrine.sty)             reported on input line 1976.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1827,37 +1819,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [68]
-Underfull \hbox (badness 3039) in paragraph at lines 1993--1995
+Underfull \hbox (badness 3039) in paragraph at lines 1985--1987
 []\TU/EBGaramond(0)/m/n/12 Omembyra Tupã acé angaipâba recé
  []
 
 
-Overfull \hbox (2.59457pt too wide) in paragraph at lines 1993--1995
+Overfull \hbox (2.59457pt too wide) in paragraph at lines 1985--1987
 \TU/EBGaramond(0)/m/n/12 acêbe inhemoyrõb6aé oimonhyrõ, anhân-
  []
 
 
-Overfull \hbox (1.13861pt too wide) in paragraph at lines 1999--2001
+Overfull \hbox (1.13861pt too wide) in paragraph at lines 1991--1993
 []\TU/EBGaramond(0)/m/n/12 Cöyr, icó âra pupé acé recó pûkui, memé
  []
 
 
-Overfull \hbox (2.46658pt too wide) in paragraph at lines 2008--2009
+Overfull \hbox (2.46658pt too wide) in paragraph at lines 2000--2001
 []\TU/EBGaramond(0)/m/n/12 Acé cy omembypitânga rauçûba çoçé acé
  []
 
 
-Overfull \hbox (1.45778pt too wide) in paragraph at lines 2010--2011
+Overfull \hbox (1.45778pt too wide) in paragraph at lines 2002--2003
 []\TU/EBGaramond(0)/m/n/12 Imembyra iandé iâra JESUS Chriſto rëõ-
  []
 
 
-Underfull \hbox (badness 2941) in paragraph at lines 2012--2012
+Underfull \hbox (badness 2941) in paragraph at lines 2004--2004
 []\TU/EBGaramond(0)/m/n/12 Cecobérâma mëêng potá erímbäé xe
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2012--2012
+Underfull \hbox (badness 10000) in paragraph at lines 2004--2004
 
  []
 
@@ -1869,7 +1861,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [69]
-Overfull \hbox (8.37059pt too wide) in paragraph at lines 2021--2023
+Overfull \hbox (8.37059pt too wide) in paragraph at lines 2013--2015
 []\TU/EBGaramond(0)/m/n/12 Oipotá catúpe Santa Marîa acé omembyra
  []
 
@@ -1896,56 +1888,56 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [71]
 Cap\'{\i }tulo 6.
 
-Overfull \hbox (7.85324pt too wide) in paragraph at lines 2077--2078
+Overfull \hbox (7.85324pt too wide) in paragraph at lines 2069--2070
 []\TU/EBGaramond(0)/m/n/12 M. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2077--2078
+Underfull \hbox (badness 10000) in paragraph at lines 2069--2070
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2077--2078
+Underfull \hbox (badness 10000) in paragraph at lines 2069--2070
 
  []
 
 
-Overfull \hbox (5.72923pt too wide) in paragraph at lines 2077--2078
+Overfull \hbox (5.72923pt too wide) in paragraph at lines 2069--2070
 \TU/EBGaramond(0)/m/n/12 D. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2077--2078
+Underfull \hbox (badness 10000) in paragraph at lines 2069--2070
 
  []
 
 Package lettrine.sty Info: Targeted height = 63.436pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 56.23325pt (\zall {M});
-(lettrine.sty)             reported on input line 2082.
+(lettrine.sty)             reported on input line 2074.
 
-Underfull \hbox (badness 2744) in paragraph at lines 2082--2087
+Underfull \hbox (badness 2744) in paragraph at lines 2074--2079
 []\TU/EBGaramond(0)/m/sc/12 A\TU/EBGaramond(0)/m/n/12 rã oicóbo pé acé anhânga
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2082--2087
+Underfull \hbox (badness 10000) in paragraph at lines 2074--2079
 | \TU/EBGaramond(0)/m/n/12 çüí inhepycyrõ, ybákype
  []
 
 
-Underfull \hbox (badness 1558) in paragraph at lines 2082--2087
+Underfull \hbox (badness 1558) in paragraph at lines 2074--2079
 \TU/EBGaramond(0)/m/n/12 Tupã rerobiá, onhemonhan-
  []
 
 
-Overfull \hbox (20.1698pt too wide) in paragraph at lines 2076--2088
+Overfull \hbox (20.1698pt too wide) in paragraph at lines 2068--2080
 | [] | [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2076--2088
+Underfull \hbox (badness 10000) in paragraph at lines 2068--2080
 
  []
 
@@ -1957,17 +1949,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [72]
-Underfull \hbox (badness 1460) in paragraph at lines 2107--2109
+Underfull \hbox (badness 1460) in paragraph at lines 2099--2101
 []\TU/EBGaramond(0)/m/n/12 Oiepé Tupã memépé äé Tupã Tûba,
  []
 
 
-Underfull \hbox (badness 2189) in paragraph at lines 2111--2113
+Underfull \hbox (badness 2189) in paragraph at lines 2103--2105
 \TU/EBGaramond(0)/m/n/12 cöé, Tupã Täyra oicöé, Tupã Eſpirito
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 2113--2115
+Underfull \hbox (badness 1755) in paragraph at lines 2105--2107
 \TU/EBGaramond(0)/m/n/12 Tûba, coipó Tupã Täyra, coipó Tupã
  []
 
@@ -1979,12 +1971,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [73]
-Underfull \hbox (badness 10000) in paragraph at lines 2118--2120
+Underfull \hbox (badness 10000) in paragraph at lines 2110--2112
 \TU/EBGaramond(0)/m/n/12 bamo onhemonhânghiré é cetéramo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2142--2143
+Underfull \hbox (badness 10000) in paragraph at lines 2134--2135
 []\TU/EBGaramond(0)/m/n/12 Cemïepiácpabénamopé mbäé tetiruã
  []
 
@@ -1999,7 +1991,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.70613pt (A);
-(lettrine.sty)             reported on input line 2159.
+(lettrine.sty)             reported on input line 2151.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2009,22 +2001,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [75]
-Overfull \hbox (5.25858pt too wide) in paragraph at lines 2177--2178
+Overfull \hbox (5.25858pt too wide) in paragraph at lines 2169--2170
 []\TU/EBGaramond(0)/m/n/12 Onhemongaräîpa, inheenga abé mopôra. 
  []
 
 
-Overfull \hbox (3.0226pt too wide) in paragraph at lines 2181--2183
+Overfull \hbox (3.0226pt too wide) in paragraph at lines 2173--2175
 []\TU/EBGaramond(0)/m/n/12 Cetá, cëyi icüabipyreyma, Tupã imonhã-
  []
 
 
-Overfull \hbox (10.17058pt too wide) in paragraph at lines 2185--2186
+Overfull \hbox (10.17058pt too wide) in paragraph at lines 2177--2178
 []\TU/EBGaramond(0)/m/n/12 Maránamo tepé acé Caräíbebpe ïéu ixupé? 
  []
 
 
-Overfull \hbox (29.97859pt too wide) in paragraph at lines 2188--2189
+Overfull \hbox (29.97859pt too wide) in paragraph at lines 2180--2181
 []\TU/EBGaramond(0)/m/n/12 Iangaturã cycpe erímbäé Tupã imonhánghypy-
  []
 
@@ -2036,17 +2028,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [76]
-Overfull \hbox (3.10657pt too wide) in paragraph at lines 2205--2207
+Overfull \hbox (3.10657pt too wide) in paragraph at lines 2197--2199
 \TU/EBGaramond(0)/m/n/12 icoaucaçábamo cecóu, imotecocüabëyma. 
  []
 
 
-Overfull \hbox (1.84259pt too wide) in paragraph at lines 2215--2217
+Overfull \hbox (1.84259pt too wide) in paragraph at lines 2207--2209
 []\TU/EBGaramond(0)/m/n/12 Marã iabépe Tupã aipóbäé rerecóu ixupé
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 2217--2220
+Underfull \hbox (badness 2856) in paragraph at lines 2209--2212
 []\TU/EBGaramond(0)/m/n/12 Anhángamonhé imondóu, aunhenhe
  []
 
@@ -2058,12 +2050,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [77]
-Underfull \hbox (badness 1052) in paragraph at lines 2228--2230
+Underfull \hbox (badness 1052) in paragraph at lines 2220--2222
 []\TU/EBGaramond(0)/m/n/12 Marãpe Caraíbebé Tupã recé ierobia-
  []
 
 
-Overfull \hbox (1.1146pt too wide) in paragraph at lines 2239--2241
+Overfull \hbox (1.1146pt too wide) in paragraph at lines 2231--2233
 []\TU/EBGaramond(0)/m/n/12 Anhânga acé çumarã çüí, tecó angaipâba
  []
 
@@ -2078,9 +2070,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.70613pt (A);
-(lettrine.sty)             reported on input line 2257.
+(lettrine.sty)             reported on input line 2249.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2257--2257
+Underfull \hbox (badness 10000) in paragraph at lines 2249--2249
 []\TU/EBGaramond(0)/m/sc/12 B\TU/EBGaramond(0)/m/n/12 ápe erímbäé Tupã oimonhán-
  []
 
@@ -2092,12 +2084,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [79]
-Overfull \hbox (14.33458pt too wide) in paragraph at lines 2283--2285
+Overfull \hbox (14.33458pt too wide) in paragraph at lines 2275--2277
 []\TU/EBGaramond(0)/m/n/12 Ceté auiépuêra pupé imondêbi opytú pupé
  []
 
 
-Overfull \hbox (2.47057pt too wide) in paragraph at lines 2299--2301
+Overfull \hbox (2.47057pt too wide) in paragraph at lines 2291--2293
 []\TU/EBGaramond(0)/m/n/12 Ipytybogarâma recé, iporomonhangaõâ-
  []
 
@@ -2109,7 +2101,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [80]
-Overfull \hbox (0.39058pt too wide) in paragraph at lines 2325--2327
+Overfull \hbox (0.39058pt too wide) in paragraph at lines 2317--2319
 []\TU/EBGaramond(0)/m/n/12 Aë goemityma äyçó pytéripebépe Tu- pã
  []
 
@@ -2124,7 +2116,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.07416pt (O);
-(lettrine.sty)             reported on input line 2350.
+(lettrine.sty)             reported on input line 2342.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2134,7 +2126,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [82]
-Overfull \hbox (0.29857pt too wide) in paragraph at lines 2384--2386
+Overfull \hbox (0.29857pt too wide) in paragraph at lines 2376--2378
 []\TU/EBGaramond(0)/m/n/12 Ocoabetápe erímbäéceixpu ybákype abá
  []
 
@@ -2146,27 +2138,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [83]
-Overfull \hbox (2.94789pt too wide) in paragraph at lines 2399--2402
+Overfull \hbox (2.94789pt too wide) in paragraph at lines 2391--2394
 []\TU/EBGaramond(0)/m/n/12 Xemoioiá xenhemoyrõ,ëí. Aimocanhém
  []
 
 
-Overfull \hbox (1.65862pt too wide) in paragraph at lines 2412--2414
+Overfull \hbox (1.65862pt too wide) in paragraph at lines 2404--2406
 []\TU/EBGaramond(0)/m/n/12 Oito, Nöé inhëênha rupí tecoâra, cembi-
  []
 
 
-Overfull \hbox (1.99858pt too wide) in paragraph at lines 2415--2417
+Overfull \hbox (1.99858pt too wide) in paragraph at lines 2407--2409
 []\TU/EBGaramond(0)/m/n/12 Ybyrá caramemoã, ygaruçú nungâra ixu-
  []
 
 
-Overfull \hbox (2.41058pt too wide) in paragraph at lines 2415--2417
+Overfull \hbox (2.41058pt too wide) in paragraph at lines 2407--2409
 \TU/EBGaramond(0)/m/n/12 pé goemimonhángucaroéra pupé imöaru-
  []
 
 
-Overfull \hbox (2.85059pt too wide) in paragraph at lines 2421--2423
+Overfull \hbox (2.85059pt too wide) in paragraph at lines 2413--2415
 \TU/EBGaramond(0)/m/n/12 ramo, Tupã nhëênga rupí oicópotarëyma? 
  []
 
@@ -2181,7 +2173,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.70613pt (A);
-(lettrine.sty)             reported on input line 2440.
+(lettrine.sty)             reported on input line 2432.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2191,17 +2183,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [85]
-Underfull \hbox (badness 2707) in paragraph at lines 2460--2463
+Underfull \hbox (badness 2707) in paragraph at lines 2452--2455
 \TU/EBGaramond(0)/m/n/12 SUS Chriſto mbäé tetirüã cüapáramo
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 2475--2477
+Underfull \hbox (badness 1163) in paragraph at lines 2467--2469
 []\TU/EBGaramond(0)/m/n/12 Tëõmboêra möingobéiebyreme, mbäé
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2475--2477
+Underfull \hbox (badness 10000) in paragraph at lines 2467--2469
 \TU/EBGaramond(0)/m/n/12 acybôra momböerâme, mbäé tetirüã
  []
 
@@ -2216,9 +2208,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 2497.
+(lettrine.sty)             reported on input line 2489.
 
-Overfull \hbox (1.45859pt too wide) in paragraph at lines 2502--2504
+Overfull \hbox (1.45859pt too wide) in paragraph at lines 2494--2496
 []\TU/EBGaramond(0)/m/n/12 Marã ëípe acé cenõia cunumínamo inhe-
  []
 
@@ -2230,7 +2222,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [87]
-Overfull \hbox (0.99857pt too wide) in paragraph at lines 2526--2528
+Overfull \hbox (0.99857pt too wide) in paragraph at lines 2518--2520
 []\TU/EBGaramond(0)/m/n/12 Oangaipâba recé ogoenonhéneme, iamo
  []
 
@@ -2242,12 +2234,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [88]
-Overfull \hbox (1.9746pt too wide) in paragraph at lines 2552--2553
+Overfull \hbox (1.9746pt too wide) in paragraph at lines 2544--2545
 []\TU/EBGaramond(0)/m/n/12 Marã pe äé cemienocẽgoâma recóu äépe? 
  []
 
 
-Overfull \hbox (3.32658pt too wide) in paragraph at lines 2562--2563
+Overfull \hbox (3.32658pt too wide) in paragraph at lines 2554--2555
 []\TU/EBGaramond(0)/m/n/12 Itá caramemoã pupé inônghi çokendâpa. 
  []
 
@@ -2262,24 +2254,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.07416pt (O);
-(lettrine.sty)             reported on input line 2584.
+(lettrine.sty)             reported on input line 2576.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2584--2584
+Underfull \hbox (badness 10000) in paragraph at lines 2576--2576
 []\TU/EBGaramond(0)/m/sc/12 I\TU/EBGaramond(0)/m/n/12 cobéiebyripe iandé iâra ogueõ
  []
 
 
-Overfull \hbox (1.76257pt too wide) in paragraph at lines 2588--2589
+Overfull \hbox (1.76257pt too wide) in paragraph at lines 2580--2581
 []\TU/EBGaramond(0)/m/n/12 Okeretápe cëõ boêra omondébagóeripe? 
  []
 
 
-Overfull \hbox (5.67058pt too wide) in paragraph at lines 2589--2590
+Overfull \hbox (5.67058pt too wide) in paragraph at lines 2581--2582
 []\TU/EBGaramond(0)/m/n/12 Nãäni âra moçapyra rirérbé cecobé iebyri. 
  []
 
 
-Underfull \hbox (badness 4859) in paragraph at lines 2599--2600
+Underfull \hbox (badness 4859) in paragraph at lines 2591--2592
 []\TU/EBGaramond(0)/m/n/12 Oiepiacucár ixupé nho, imöapycyca,
  []
 
@@ -2291,17 +2283,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [90]
-Underfull \hbox (badness 1132) in paragraph at lines 2607--2609
+Underfull \hbox (badness 1132) in paragraph at lines 2599--2601
 []\TU/EBGaramond(0)/m/n/12 Mbäé tetirüã iáramo cecóreme, Tupã
  []
 
 
-Underfull \hbox (badness 2205) in paragraph at lines 2609--2611
+Underfull \hbox (badness 2205) in paragraph at lines 2601--2603
 []\TU/EBGaramond(0)/m/n/12 Oimböúrpe erímbäé mbäé catú amó
  []
 
 
-Overfull \hbox (0.69458pt too wide) in paragraph at lines 2617--2618
+Overfull \hbox (0.69458pt too wide) in paragraph at lines 2609--2610
 []\TU/EBGaramond(0)/m/n/12 Tatá endy etá, acé apecũabyarëyma anhõ
  []
 
@@ -2313,21 +2305,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [91]
-Underfull \hbox (badness 10000) in paragraph at lines 2627--2628
+Underfull \hbox (badness 10000) in paragraph at lines 2619--2620
 []\TU/EBGaramond(0)/m/n/12 JESUS Chrſto nhëêngoêra mombe-
  []
 
 
-Overfull \hbox (7.6746pt too wide) in paragraph at lines 2631--2633
+Overfull \hbox (7.6746pt too wide) in paragraph at lines 2623--2625
 \TU/EBGaramond(0)/m/n/12 porarâbo cëõmotâri, abá ogoerobiâra potá? 
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.07416pt (O);
-(lettrine.sty)             reported on input line 2649.
+(lettrine.sty)             reported on input line 2641.
 
-Underfull \hbox (badness 1377) in paragraph at lines 2649--2649
+Underfull \hbox (badness 1377) in paragraph at lines 2641--2641
 []\TU/EBGaramond(0)/m/sc/12 U\TU/EBGaramond(0)/m/n/12 ribépe irã JESUS Chriſto ybâ-
  []
 
@@ -2347,12 +2339,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [93]
-Overfull \hbox (1.0866pt too wide) in paragraph at lines 2684--2685
+Overfull \hbox (1.0866pt too wide) in paragraph at lines 2676--2677
 []\TU/EBGaramond(0)/m/n/12 Iabäeté catúpe irã ïãgaipábäé çupé öúne? 
  []
 
 
-Overfull \hbox (7.65858pt too wide) in paragraph at lines 2690--2691
+Overfull \hbox (7.65858pt too wide) in paragraph at lines 2682--2683
 []\TU/EBGaramond(0)/m/n/12 Docepiákixoéne, ïabäeté anhõ acepiákine. 
  []
 
@@ -2364,19 +2356,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [94]
-Overfull \hbox (14.25058pt too wide) in paragraph at lines 2713--2714
+Overfull \hbox (14.25058pt too wide) in paragraph at lines 2705--2706
 []\TU/EBGaramond(0)/m/n/12 Oiporará abépe mbäé amó ebouïme oicôbo
  []
 
 
-Overfull \hbox (2.14658pt too wide) in paragraph at lines 2723--2724
+Overfull \hbox (2.14658pt too wide) in paragraph at lines 2715--2716
 []\TU/EBGaramond(0)/m/n/12 Auieramanhé Tupã omonhângâra repia-
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 2740.
+(lettrine.sty)             reported on input line 2732.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2385,22 +2377,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [95]
-Underfull \hbox (badness 2418) in paragraph at lines 2755--2757
+Underfull \hbox (badness 2418) in paragraph at lines 2747--2749
 []\TU/EBGaramond(0)/m/n/12 Umámepe äé putunuçú pitânga nhe
  []
 
 
-Overfull \hbox (1.44661pt too wide) in paragraph at lines 2758--2759
+Overfull \hbox (1.44661pt too wide) in paragraph at lines 2750--2751
 []\TU/EBGaramond(0)/m/n/12 Ocepiácpe äé pitánga Tupã äépe oicôbo? 
  []
 
 
-Underfull \hbox (badness 5475) in paragraph at lines 2768--2770
+Underfull \hbox (badness 5475) in paragraph at lines 2760--2762
 []\TU/EBGaramond(0)/m/n/12 Aëpe öangaipagoéra möacy catuâbo,
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 2771--2773
+Underfull \hbox (badness 1163) in paragraph at lines 2763--2765
 []\TU/EBGaramond(0)/m/n/12 Aépe öangaipagoéra repymëénghá ëy-
  []
 
@@ -2412,14 +2404,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [96]
-Overfull \hbox (1.03459pt too wide) in paragraph at lines 2777--2778
+Overfull \hbox (1.03459pt too wide) in paragraph at lines 2769--2770
 []\TU/EBGaramond(0)/m/n/12 Océm, öangaipagoéra repymëengbâpa é. 
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.75816pt (I);
-(lettrine.sty)             reported on input line 2796.
+(lettrine.sty)             reported on input line 2788.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2431,19 +2423,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.9018pt (P);
-(lettrine.sty)             reported on input line 2825.
+(lettrine.sty)             reported on input line 2817.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2825--2825
+Underfull \hbox (badness 10000) in paragraph at lines 2817--2817
 []\TU/EBGaramond(0)/m/sc/12 E\TU/EBGaramond(0)/m/n/12 robiápe Santa Madre Igreja?
  []
 
 
-Underfull \hbox (badness 3884) in paragraph at lines 2829--2831
+Underfull \hbox (badness 3884) in paragraph at lines 2821--2823
 []\TU/EBGaramond(0)/m/n/12 Imongaräíbipyretá oiepé goaçú iaçöá
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2833--2835
+Underfull \hbox (badness 10000) in paragraph at lines 2825--2827
 []\TU/EBGaramond(0)/m/n/12 JESUS Chriſto rerobiaçápabénamo
  []
 
@@ -2455,7 +2447,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [98]
-Underfull \hbox (badness 10000) in paragraph at lines 2842--2844
+Underfull \hbox (badness 10000) in paragraph at lines 2834--2836
 []\TU/EBGaramond(0)/m/n/12 Imongaräíbipyra ïangaturámbäé çüí
  []
 
@@ -2467,7 +2459,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [99]
-Underfull \hbox (badness 10000) in paragraph at lines 2866--2869
+Underfull \hbox (badness 10000) in paragraph at lines 2858--2861
 \TU/EBGaramond(0)/m/n/12 ixupé ceté catú maranëyma mëénga,
  []
 
@@ -2479,7 +2471,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [100]
-Underfull \hbox (badness 2409) in paragraph at lines 2897--2899
+Underfull \hbox (badness 2409) in paragraph at lines 2889--2891
 []\TU/EBGaramond(0)/m/n/12 Emonánamo pé acé Santa ïeú Igreja
  []
 
@@ -2497,41 +2489,41 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [101]
 Cap\'{\i }tulo 7.
 
-Overfull \hbox (7.85324pt too wide) in paragraph at lines 2943--2944
+Overfull \hbox (7.85324pt too wide) in paragraph at lines 2935--2936
 []\TU/EBGaramond(0)/m/n/12 M. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2943--2944
+Underfull \hbox (badness 10000) in paragraph at lines 2935--2936
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2943--2944
+Underfull \hbox (badness 10000) in paragraph at lines 2935--2936
 
  []
 
 
-Overfull \hbox (5.72923pt too wide) in paragraph at lines 2943--2944
+Overfull \hbox (5.72923pt too wide) in paragraph at lines 2935--2936
 \TU/EBGaramond(0)/m/n/12 D. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2943--2944
+Underfull \hbox (badness 10000) in paragraph at lines 2935--2936
 
  []
 
 Package lettrine.sty Info: Targeted height = 63.436pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 56.23325pt (\zall {M});
-(lettrine.sty)             reported on input line 2948.
+(lettrine.sty)             reported on input line 2940.
 
-Overfull \hbox (20.1698pt too wide) in paragraph at lines 2942--2955
+Overfull \hbox (20.1698pt too wide) in paragraph at lines 2934--2947
 | [] | [] 
  []
 
 
-Overfull \hbox (2.07059pt too wide) in paragraph at lines 2963--2965
+Overfull \hbox (2.07059pt too wide) in paragraph at lines 2955--2957
 []\TU/EBGaramond(0)/m/n/12 Ogoemimotáriböépe erímbäé inhëénghi
  []
 
@@ -2543,21 +2535,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [102]
-Underfull \hbox (badness 7397) in paragraph at lines 2966--2968
+Underfull \hbox (badness 7397) in paragraph at lines 2958--2960
 []\TU/EBGaramond(0)/m/n/12 Oipotá catú ogoeõ agoéra recé acé
  []
 
 
-Overfull \hbox (0.51859pt too wide) in paragraph at lines 2972--2974
+Overfull \hbox (0.51859pt too wide) in paragraph at lines 2964--2966
 []\TU/EBGaramond(0)/m/n/12 Ombäéú goemimböé etá pyri carúkeme,
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 2990.
+(lettrine.sty)             reported on input line 2982.
 
-Overfull \hbox (6.5466pt too wide) in paragraph at lines 2994--2996
+Overfull \hbox (6.5466pt too wide) in paragraph at lines 2986--2988
 []\TU/EBGaramond(0)/m/n/12 MOçapyr oboiá, Saõ Pedro, Santiago, Saõ
  []
 
@@ -2569,12 +2561,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [103]
-Overfull \hbox (1.39859pt too wide) in paragraph at lines 3013--3017
+Overfull \hbox (1.39859pt too wide) in paragraph at lines 3005--3009
 []\TU/EBGaramond(0)/m/n/12 Aipó xe rëõnâmarambuépra abäyme, to-
  []
 
 
-Overfull \hbox (0.37859pt too wide) in paragraph at lines 3013--3017
+Overfull \hbox (0.37859pt too wide) in paragraph at lines 3005--3009
 \TU/EBGaramond(0)/m/n/12 nhe monhãnghumé xeremimotâra ëí, nde
  []
 
@@ -2586,7 +2578,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [104]
-Underfull \hbox (badness 1194) in paragraph at lines 3038--3040
+Underfull \hbox (badness 1194) in paragraph at lines 3030--3032
 []\TU/EBGaramond(0)/m/n/12 Tuguy tikyroéra abyarëyma opiránga-
  []
 
@@ -2601,9 +2593,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.70613pt (A);
-(lettrine.sty)             reported on input line 3068.
+(lettrine.sty)             reported on input line 3060.
 
-Overfull \hbox (0.17859pt too wide) in paragraph at lines 3082--3085
+Overfull \hbox (0.17859pt too wide) in paragraph at lines 3074--3077
 []\TU/EBGaramond(0)/m/n/12 Aéacétobapé pyténe, oiâbo, peipycyc ca-
  []
 
@@ -2615,12 +2607,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [106]
-Overfull \hbox (1.72258pt too wide) in paragraph at lines 3101--3103
+Overfull \hbox (1.72258pt too wide) in paragraph at lines 3093--3095
 []\TU/EBGaramond(0)/m/n/12 Opá iieäkipué reroiebyri, öatucupê pyté-
  []
 
 
-Overfull \hbox (1.05858pt too wide) in paragraph at lines 3103--3105
+Overfull \hbox (1.05858pt too wide) in paragraph at lines 3095--3097
 []\TU/EBGaramond(0)/m/n/12 Oporandúbénhépe iandé iâra ixupe abá-
  []
 
@@ -2632,14 +2624,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [107]
-Overfull \hbox (4.4386pt too wide) in paragraph at lines 3125--3127
+Overfull \hbox (4.4386pt too wide) in paragraph at lines 3117--3119
 []\TU/EBGaramond(0)/m/n/12 Oipoçanóng, inambí atoĩa nhóte, aunhé-
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 3150.
+(lettrine.sty)             reported on input line 3142.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2648,12 +2640,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [108]
-Underfull \hbox (badness 5161) in paragraph at lines 3176--3177
+Underfull \hbox (badness 5161) in paragraph at lines 3168--3169
 []\TU/EBGaramond(0)/m/n/12 Marã iabépe cerecóu guá äipó ïére-
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 3177--3180
+Underfull \hbox (badness 3271) in paragraph at lines 3169--3172
 \TU/EBGaramond(0)/m/n/12 monãpipó morobixâba erenheéngobai-
  []
 
@@ -2668,14 +2660,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 3202.
+(lettrine.sty)             reported on input line 3194.
 
-Underfull \hbox (badness 2762) in paragraph at lines 3202--3202
+Underfull \hbox (badness 2762) in paragraph at lines 3194--3194
 []\TU/EBGaramond(0)/m/sc/12 A\TU/EBGaramond(0)/m/n/12 mópe Anás iandé iâra reraçó
  []
 
 
-Overfull \hbox (6.66658pt too wide) in paragraph at lines 3207--3209
+Overfull \hbox (6.66658pt too wide) in paragraph at lines 3199--3201
 []\TU/EBGaramond(0)/m/n/12 Onhëéng monha monháng tenhé o- möé-
  []
 
@@ -2687,27 +2679,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [110]
-Overfull \hbox (3.82259pt too wide) in paragraph at lines 3229--3231
+Overfull \hbox (3.82259pt too wide) in paragraph at lines 3221--3223
 []\TU/EBGaramond(0)/m/n/12 Marã iabépe maranarí tecoâra cerecóu äé-
  []
 
 
-Underfull \hbox (badness 3907) in paragraph at lines 3231--3236
+Underfull \hbox (badness 3907) in paragraph at lines 3223--3228
 []\TU/EBGaramond(0)/m/n/12 Oixamicyc ceröâma iáiâia, çobá recé
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 3231--3236
+Underfull \hbox (badness 1259) in paragraph at lines 3223--3228
 \TU/EBGaramond(0)/m/n/12 ubâna, çobá petépetêca, iaypy atycáty-
  []
 
 
-Overfull \hbox (0.95459pt too wide) in paragraph at lines 3236--3238
-[]\TU/EBGaramond(0)/m/n/12 Opábanhé cerã erímbäé äépe tecoára iiaó
+Overfull \hbox (0.95459pt too wide) in paragraph at lines 3228--3230
+[]\TU/EBGaramond(0)/m/n/12 Opábanhé cerã erimbäé äépe tecoára iiaó
  []
 
 
-Overfull \hbox (2.41858pt too wide) in paragraph at lines 3244--3246
+Overfull \hbox (2.41858pt too wide) in paragraph at lines 3236--3238
 []\TU/EBGaramond(0)/m/n/12 Tëyípenhé igoapyki, tatá ipype oiepegoá-
  []
 
@@ -2719,22 +2711,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [111]
-Underfull \hbox (badness 1107) in paragraph at lines 3260--3262
+Underfull \hbox (badness 1107) in paragraph at lines 3252--3254
 []\TU/EBGaramond(0)/m/n/12 Iandé iâra nheéngoéra recébé omäen-
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 3263--3266
+Underfull \hbox (badness 2799) in paragraph at lines 3255--3258
 \TU/EBGaramond(0)/m/n/12 cüacúb, mocoĩ guyrá çapucai ëymebé
  []
 
 
-Underfull \hbox (badness 2644) in paragraph at lines 3266--3268
+Underfull \hbox (badness 2644) in paragraph at lines 3258--3260
 []\TU/EBGaramond(0)/m/n/12 Marãpe Saõ Pedro recóu öangaipaba
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3273--3275
+Underfull \hbox (badness 10000) in paragraph at lines 3265--3267
 
  []
 
@@ -2746,7 +2738,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [112]
-Underfull \hbox (badness 1661) in paragraph at lines 3279--3282
+Underfull \hbox (badness 1661) in paragraph at lines 3271--3274
 []\TU/EBGaramond(0)/m/n/12 Ndoroicoi aipóbäé recé, ëí: nde ipó
  []
 
@@ -2763,14 +2755,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 3321.
+(lettrine.sty)             reported on input line 3313.
 
-Underfull \hbox (badness 1975) in paragraph at lines 3321--3321
+Underfull \hbox (badness 1975) in paragraph at lines 3313--3313
 []\TU/EBGaramond(0)/m/sc/12 A\TU/EBGaramond(0)/m/n/12 mópe erímbäé tëyi catú pabẽ
  []
 
 
-Overfull \hbox (4.8666pt too wide) in paragraph at lines 3324--3326
+Overfull \hbox (4.8666pt too wide) in paragraph at lines 3316--3318
 []\TU/EBGaramond(0)/m/n/12 Pilatos morerecoaruçú çupé, ipó poaçâba
  []
 
@@ -2782,12 +2774,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [114]
-Overfull \hbox (4.4466pt too wide) in paragraph at lines 3343--3345
+Overfull \hbox (4.4466pt too wide) in paragraph at lines 3335--3337
 []\TU/EBGaramond(0)/m/n/12 Oieiucá äíbeté, onhemöaiuábo, inhëénga
  []
 
 
-Overfull \hbox (3.15855pt too wide) in paragraph at lines 3366--3368
+Overfull \hbox (3.15855pt too wide) in paragraph at lines 3358--3360
 []\TU/EBGaramond(0)/m/n/12 Oporandúb tenhé: nonheênghi iandé iâ-
  []
 
@@ -2799,16 +2791,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [115]
-Overfull \hbox (0.94656pt too wide) in paragraph at lines 3373--3375
+Overfull \hbox (0.94656pt too wide) in paragraph at lines 3365--3367
 []\TU/EBGaramond(0)/m/n/12 Pilatos çupé : äériré oioupé inhyrõ oiere-
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.07416pt (O);
-(lettrine.sty)             reported on input line 3393.
+(lettrine.sty)             reported on input line 3385.
 
-Underfull \hbox (badness 2261) in paragraph at lines 3404--3408
+Underfull \hbox (badness 2261) in paragraph at lines 3396--3400
 \TU/EBGaramond(0)/m/n/12 peimocémucár ixêbo iepí : Peipotápe
  []
 
@@ -2820,12 +2812,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [116]
-Overfull \hbox (1.07458pt too wide) in paragraph at lines 3409--3412
+Overfull \hbox (1.07458pt too wide) in paragraph at lines 3401--3404
 []\TU/EBGaramond(0)/m/n/12 Aunhenhé çaceçacémamo, näani, oiâbo,
  []
 
 
-Overfull \hbox (2.11455pt too wide) in paragraph at lines 3429--3431
+Overfull \hbox (2.11455pt too wide) in paragraph at lines 3421--3423
 []\TU/EBGaramond(0)/m/n/12 Cetá : cecé oiopurúpuruâbo ocanëõnëó-
  []
 
@@ -2840,14 +2832,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 3452.
+(lettrine.sty)             reported on input line 3444.
 
-Overfull \hbox (4.27858pt too wide) in paragraph at lines 3455--3457
+Overfull \hbox (4.27858pt too wide) in paragraph at lines 3447--3449
 []\TU/EBGaramond(0)/m/n/12 Ogueraçó amó ocuçúpe ceroikeábo, äépe
  []
 
 
-Overfull \hbox (2.72656pt too wide) in paragraph at lines 3460--3462
+Overfull \hbox (2.72656pt too wide) in paragraph at lines 3452--3454
 []\TU/EBGaramond(0)/m/n/12 Iúätĩembó apynha ïacáng cutúcutûca ça-
  []
 
@@ -2859,17 +2851,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [118]
-Overfull \hbox (2.6426pt too wide) in paragraph at lines 3476--3478
+Overfull \hbox (2.6426pt too wide) in paragraph at lines 3468--3470
 []\TU/EBGaramond(0)/m/n/12 Aó pirânga, iú abé oguerúr oioëcé oporë-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3487--3489
+Underfull \hbox (badness 10000) in paragraph at lines 3479--3481
 []\TU/EBGaramond(0)/m/n/12 Oçapiáripé Pilatos inhëênga äéreme
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 3494--3497
+Underfull \hbox (badness 1838) in paragraph at lines 3486--3489
 \TU/EBGaramond(0)/m/n/12 oiâbo: Naxé recé rüã ijucaçâba árine,
  []
 
@@ -2884,19 +2876,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 3520.
+(lettrine.sty)             reported on input line 3512.
 
-Overfull \hbox (0.99457pt too wide) in paragraph at lines 3531--3532
+Overfull \hbox (0.99457pt too wide) in paragraph at lines 3523--3524
 []\TU/EBGaramond(0)/m/n/12 Näâni,tocyc eçapyá,oiucäãoâme oiâbo é. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3539--3540
+Underfull \hbox (badness 10000) in paragraph at lines 3531--3532
 
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 3541--3543
+Underfull \hbox (badness 1721) in paragraph at lines 3533--3535
 []\TU/EBGaramond(0)/m/n/12 ipôra recé bé guá imocanhêmäagoáma
  []
 
@@ -2908,7 +2900,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [120]
-Underfull \hbox (badness 2189) in paragraph at lines 3553--3556
+Underfull \hbox (badness 2189) in paragraph at lines 3545--3548
 \TU/EBGaramond(0)/m/n/12 atâmo ipîra abé ôca, çuguy mocyryca
  []
 
@@ -2920,14 +2912,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [121]
-Overfull \hbox (5.44258pt too wide) in paragraph at lines 3576--3578
+Overfull \hbox (5.44258pt too wide) in paragraph at lines 3568--3570
 []\TU/EBGaramond(0)/m/n/12 Abá abápe oimöámirúnamo amó äé Cruz
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 3597.
+(lettrine.sty)             reported on input line 3589.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2936,12 +2928,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [122]
-Overfull \hbox (2.10179pt too wide) in paragraph at lines 3619--3621
+Overfull \hbox (2.10179pt too wide) in paragraph at lines 3611--3613
 []\TU/EBGaramond(0)/m/n/12 Marã ëí JESUS iandé iâra ocy çupé ogoeó
  []
 
 
-Overfull \hbox (2.7879pt too wide) in paragraph at lines 3621--3623
+Overfull \hbox (2.7879pt too wide) in paragraph at lines 3613--3615
 []\TU/EBGaramond(0)/m/n/12 Eboqué nde membyra cunhã goé, ëí. Saõ
  []
 
@@ -2953,26 +2945,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [123]
-Underfull \hbox (badness 1147) in paragraph at lines 3644--3646
+Underfull \hbox (badness 1147) in paragraph at lines 3636--3638
 []\TU/EBGaramond(0)/m/n/12 Oieäybyc ogoacé goacémamo, omanó
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 3665.
+(lettrine.sty)             reported on input line 3657.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3665--3665
+Underfull \hbox (badness 10000) in paragraph at lines 3657--3657
 []\TU/EBGaramond(0)/m/sc/12 A\TU/EBGaramond(0)/m/n/12 rãpe tecó iiekyí ianondé?
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 3665--3665
+Underfull \hbox (badness 2027) in paragraph at lines 3657--3657
 \TU/EBGaramond(0)/m/n/12 Coaracy onhemoputun, yby o-
  []
 
 
-Overfull \hbox (10.95058pt too wide) in paragraph at lines 3667--3669
+Overfull \hbox (10.95058pt too wide) in paragraph at lines 3659--3661
 []\TU/EBGaramond(0)/m/n/12 Marã ëípe çupiaroéra oçôbo cëõboéra reiá? 
  []
 
@@ -2984,12 +2976,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [124]
-Overfull \hbox (2.92657pt too wide) in paragraph at lines 3679--3681
+Overfull \hbox (2.92657pt too wide) in paragraph at lines 3671--3673
 []\TU/EBGaramond(0)/m/n/12 Itamína pupé iyké catúki, inhyã mobôca,
  []
 
 
-Underfull \hbox (badness 4072) in paragraph at lines 3691--3693
+Underfull \hbox (badness 4072) in paragraph at lines 3683--3685
 []\TU/EBGaramond(0)/m/n/12 Marãpe cecóu ipupé iondêbiré, ixüí
  []
 
@@ -3005,36 +2997,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [125]
 Cap\'{\i }tulo 8.
 
-Overfull \hbox (7.85324pt too wide) in paragraph at lines 3735--3736
+Overfull \hbox (7.85324pt too wide) in paragraph at lines 3727--3728
 []\TU/EBGaramond(0)/m/n/12 M. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3735--3736
+Underfull \hbox (badness 10000) in paragraph at lines 3727--3728
 
  []
 
 
-Overfull \hbox (5.72923pt too wide) in paragraph at lines 3735--3736
+Overfull \hbox (5.72923pt too wide) in paragraph at lines 3727--3728
 \TU/EBGaramond(0)/m/n/12 D. 
  []
 
 
-Overfull \hbox (7.85324pt too wide) in paragraph at lines 3735--3736
+Overfull \hbox (7.85324pt too wide) in paragraph at lines 3727--3728
 \TU/EBGaramond(0)/m/n/12 M. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3735--3736
+Underfull \hbox (badness 10000) in paragraph at lines 3727--3728
 
  []
 
 Package lettrine.sty Info: Targeted height = 63.436pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 56.23325pt (\zall {A});
-(lettrine.sty)             reported on input line 3740.
+(lettrine.sty)             reported on input line 3732.
 
-Overfull \hbox (20.1698pt too wide) in paragraph at lines 3734--3746
+Overfull \hbox (20.1698pt too wide) in paragraph at lines 3726--3738
 | [] | [] 
  []
 
@@ -3046,27 +3038,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [126]
-Overfull \hbox (0.62659pt too wide) in paragraph at lines 3763--3765
+Overfull \hbox (0.62659pt too wide) in paragraph at lines 3755--3757
 []\TU/EBGaramond(0)/m/n/12 Tupã recé oierobiá, äé ipó quépe marate-
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 3766--3768
+Underfull \hbox (badness 1205) in paragraph at lines 3758--3760
 []\TU/EBGaramond(0)/m/n/12 Ixupé ogoecotebẽçâba recé oierurêbo,
  []
 
 
-Overfull \hbox (2.83458pt too wide) in paragraph at lines 3771--3773
+Overfull \hbox (2.83458pt too wide) in paragraph at lines 3763--3765
 []\TU/EBGaramond(0)/m/n/12 Ogubétéramo, omonhangáramo, opycy-
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 3773--3775
-[]\TU/EBGaramond(0)/m/n/12 Marã ëípe acé opyápe Tupã rauçûpa
+Underfull \hbox (badness 1917) in paragraph at lines 3765--3767
+[]\TU/EBGaramond(0)/m/n/12 Marã ëípe acé opyápe Tupã rauçúpa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3775--3776
+Underfull \hbox (badness 10000) in paragraph at lines 3767--3768
 
  []
 
@@ -3078,17 +3070,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [127]
-Underfull \hbox (badness 5637) in paragraph at lines 3782--3785
+Underfull \hbox (badness 5637) in paragraph at lines 3774--3777
 []\TU/EBGaramond(0)/m/n/12 Tupã omonhángareté möeteçarëyma,
  []
 
 
-Overfull \hbox (2.3226pt too wide) in paragraph at lines 3786--3788
+Overfull \hbox (2.3226pt too wide) in paragraph at lines 3778--3780
 []\TU/EBGaramond(0)/m/n/12 Imbäé cüá möangäúbäé aröanëym, Tupã
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3802--3804
+Underfull \hbox (badness 10000) in paragraph at lines 3794--3796
 
  []
 
@@ -3100,12 +3092,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [128]
-Underfull \hbox (badness 3118) in paragraph at lines 3812--3815
+Underfull \hbox (badness 3118) in paragraph at lines 3804--3807
 \TU/EBGaramond(0)/m/n/12 moraceîa, maracá poraceîa rerobiaçâra
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 3815--3818
+Underfull \hbox (badness 1210) in paragraph at lines 3807--3810
 \TU/EBGaramond(0)/m/n/12 recé oiecüacúbäé, coipó öäyra maräâra
  []
 
@@ -3122,9 +3114,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 3849.
+(lettrine.sty)             reported on input line 3841.
 
-Overfull \hbox (1.6026pt too wide) in paragraph at lines 3858--3861
+Overfull \hbox (1.6026pt too wide) in paragraph at lines 3850--3853
 []\TU/EBGaramond(0)/m/n/12 Oânga, coipó abá ânga, coipó Santo amó
  []
 
@@ -3136,26 +3128,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [130]
-Overfull \hbox (17.30661pt too wide) in paragraph at lines 3872--3874
+Overfull \hbox (17.30661pt too wide) in paragraph at lines 3864--3866
 []\TU/EBGaramond(0)/m/n/12 Maránemetépe abá, anheté Tupã recé, coipó
  []
 
 
-Overfull \hbox (17.8986pt too wide) in paragraph at lines 3876--3878
+Overfull \hbox (17.8986pt too wide) in paragraph at lines 3868--3870
 []\TU/EBGaramond(0)/m/n/12 Oiaby bépe abá, mbäé catú Tupã recé öemïe-
  []
 
 
-Overfull \hbox (2.59859pt too wide) in paragraph at lines 3879--3881
+Overfull \hbox (2.59859pt too wide) in paragraph at lines 3871--3873
 []\TU/EBGaramond(0)/m/n/12 Mbäé catú monhangaoáma recé Tupã re-
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 3903.
+(lettrine.sty)             reported on input line 3895.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3908--3910
+Underfull \hbox (badness 10000) in paragraph at lines 3900--3902
 []\TU/EBGaramond(0)/m/n/12 recé onhëangherecóçâra oporabykyëy-
  []
 
@@ -3167,29 +3159,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [131]
-Underfull \hbox (badness 1314) in paragraph at lines 3911--3915
+Underfull \hbox (badness 1314) in paragraph at lines 3903--3907
 \TU/EBGaramond(0)/m/n/12 oió ecé cëõägoéra recé onhëangherecó-
  []
 
 
-Overfull \hbox (4.95058pt too wide) in paragraph at lines 3916--3918
+Overfull \hbox (4.95058pt too wide) in paragraph at lines 3908--3910
 []\TU/EBGaramond(0)/m/n/12 Domingo pupé, âra marãtecoabëyma pu-
  []
 
 
-Overfull \hbox (0.92657pt too wide) in paragraph at lines 3918--3920
+Overfull \hbox (0.92657pt too wide) in paragraph at lines 3910--3912
 \TU/EBGaramond(0)/m/n/12 oäyra, coipó öembirecó moporabykyábo? 
  []
 
 
-Overfull \hbox (0.28258pt too wide) in paragraph at lines 3921--3922
+Overfull \hbox (0.28258pt too wide) in paragraph at lines 3913--3914
 []\TU/EBGaramond(0)/m/n/12 Mbäé mirĩ monhânga tirüãpe acé ïabyú? 
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 3943.
+(lettrine.sty)             reported on input line 3935.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3198,22 +3190,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [132]
-Overfull \hbox (0.41858pt too wide) in paragraph at lines 3958--3960
+Overfull \hbox (0.41858pt too wide) in paragraph at lines 3950--3952
 []\TU/EBGaramond(0)/m/n/12 Cunhã omêna nhëênga rapiá ogûba, ocy
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 3966--3969
+Underfull \hbox (badness 1043) in paragraph at lines 3958--3961
 \TU/EBGaramond(0)/m/n/12 nhëênga abyreme, cenonheneyma, cói-
  []
 
 
-Underfull \hbox (badness 6725) in paragraph at lines 3969--3971
+Underfull \hbox (badness 6725) in paragraph at lines 3961--3963
 []\TU/EBGaramond(0)/m/n/12 Aépe mïauçûba noçapiaririxóe oiâra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3972--3973
+Underfull \hbox (badness 10000) in paragraph at lines 3964--3965
 
  []
 
@@ -3228,9 +3220,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 3999.
+(lettrine.sty)             reported on input line 3991.
 
-Overfull \hbox (20.93858pt too wide) in paragraph at lines 4007--4010
+Overfull \hbox (20.93858pt too wide) in paragraph at lines 3999--4002
 \TU/EBGaramond(0)/m/n/12 nômo, ïiámburú ombäéacyramo, ëíbäé abépe? 
  []
 
@@ -3242,27 +3234,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [134]
-Overfull \hbox (6.67458pt too wide) in paragraph at lines 4016--4018
+Overfull \hbox (6.67458pt too wide) in paragraph at lines 4008--4010
 []\TU/EBGaramond(0)/m/n/12 Oporoapixâpa, oporoyrõramo, oporonu-
  []
 
 
-Overfull \hbox (0.32658pt too wide) in paragraph at lines 4020--4022
+Overfull \hbox (0.32658pt too wide) in paragraph at lines 4012--4014
 []\TU/EBGaramond(0)/m/n/12 Oinupã tecó catú abyagoéra iá nhóte, ce-
  []
 
 
-Underfull \hbox (badness 5077) in paragraph at lines 4030--4032
+Underfull \hbox (badness 5077) in paragraph at lines 4022--4024
 []\TU/EBGaramond(0)/m/n/12 Ogoerecómemoãçâra recé oiepyca ti-
  []
 
 
-Overfull \hbox (0.13058pt too wide) in paragraph at lines 4032--4034
+Overfull \hbox (0.13058pt too wide) in paragraph at lines 4024--4026
 []\TU/EBGaramond(0)/m/n/12 Cecé oiepyca tirüã: inhyrõ nhé acé ixupé
  []
 
 
-Underfull \hbox (badness 2318) in paragraph at lines 4034--4038
+Underfull \hbox (badness 2318) in paragraph at lines 4026--4030
 []\TU/EBGaramond(0)/m/n/12 Deitëé cerã acé Tupã monghetaçâpe,
  []
 
@@ -3274,16 +3266,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [135]
-Underfull \hbox (badness 2096) in paragraph at lines 4042--4045
+Underfull \hbox (badness 2096) in paragraph at lines 4034--4037
 []\TU/EBGaramond(0)/m/n/12 Oiaby bépe abá aipó Tupã nhëênga,
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 4071.
+(lettrine.sty)             reported on input line 4063.
 
-Underfull \hbox (badness 1430) in paragraph at lines 4077--4079
+Underfull \hbox (badness 1430) in paragraph at lines 4069--4071
 []\TU/EBGaramond(0)/m/n/12 Cunhã potá nhóte tirüãpe abá Tupã
  []
 
@@ -3295,17 +3287,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [136]
-Overfull \hbox (3.6946pt too wide) in paragraph at lines 4083--4085
+Overfull \hbox (3.6946pt too wide) in paragraph at lines 4075--4077
 []\TU/EBGaramond(0)/m/n/12 Ixupé onhëênga cecé oicópotá, ixupé oie-
  []
 
 
-Overfull \hbox (30.87057pt too wide) in paragraph at lines 4088--4091
+Overfull \hbox (30.87057pt too wide) in paragraph at lines 4080--4083
 \TU/EBGaramond(0)/m/n/12 angherecoçâpe, cecé omäendüaçape im- borypa? 
  []
 
 
-Overfull \hbox (4.46259pt too wide) in paragraph at lines 4096--4099
+Overfull \hbox (4.46259pt too wide) in paragraph at lines 4088--4091
 []\TU/EBGaramond(0)/m/n/12 Oiemongatyrômo, abá opotára potá, coi-
  []
 
@@ -3317,22 +3309,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [137]
-Overfull \hbox (0.18257pt too wide) in paragraph at lines 4109--4112
+Overfull \hbox (0.18257pt too wide) in paragraph at lines 4101--4104
 \TU/EBGaramond(0)/m/n/12 onhemomotáriré, coipó imonghetá roiré,
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 4119--4122
+Underfull \hbox (badness 1400) in paragraph at lines 4111--4114
 \TU/EBGaramond(0)/m/n/12 mombegoápe, goemimomoxypuéra öa-
  []
 
 
-Overfull \hbox (0.28258pt too wide) in paragraph at lines 4123--4125
+Overfull \hbox (0.28258pt too wide) in paragraph at lines 4115--4117
 []\TU/EBGaramond(0)/m/n/12 Aépe omêna, coipó goemirecó anameté-
  []
 
 
-Overfull \hbox (8.85059pt too wide) in paragraph at lines 4132--4135
+Overfull \hbox (8.85059pt too wide) in paragraph at lines 4124--4127
 []\TU/EBGaramond(0)/m/n/12 Opupúcbäé, coipó okêra pupé opupucoé-
  []
 
@@ -3344,17 +3336,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [138]
-Overfull \hbox (1.7226pt too wide) in paragraph at lines 4137--4140
+Overfull \hbox (1.7226pt too wide) in paragraph at lines 4129--4132
 []\TU/EBGaramond(0)/m/n/12 Cunhã, coipó abá reté recé omäêmo, coi-
  []
 
 
-Overfull \hbox (3.80258pt too wide) in paragraph at lines 4141--4144
+Overfull \hbox (3.80258pt too wide) in paragraph at lines 4133--4136
 \TU/EBGaramond(0)/m/n/12 bamo, coipó onhëêngäíbamo, coipó onhë-
  []
 
 
-Underfull \hbox (badness 1033) in paragraph at lines 4144--4147
+Underfull \hbox (badness 1033) in paragraph at lines 4136--4139
 []\TU/EBGaramond(0)/m/n/12 Oiaby eté bépe cunhã Tupã nhëênga
  []
 
@@ -3369,14 +3361,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 4173.
+(lettrine.sty)             reported on input line 4165.
 
-Overfull \hbox (6.2826pt too wide) in paragraph at lines 4180--4182
+Overfull \hbox (6.2826pt too wide) in paragraph at lines 4172--4174
 []\TU/EBGaramond(0)/m/n/12 Abá mondarõagoéra öúbäé, coipó ogócu-
  []
 
 
-Overfull \hbox (1.57059pt too wide) in paragraph at lines 4187--4189
+Overfull \hbox (1.57059pt too wide) in paragraph at lines 4179--4181
 []\TU/EBGaramond(0)/m/n/12 Abá mbäé mombucâpa, abá rymbâba iu-
  []
 
@@ -3388,14 +3380,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [140]
-Underfull \hbox (badness 2582) in paragraph at lines 4196--4198
+Underfull \hbox (badness 2582) in paragraph at lines 4188--4190
 []\TU/EBGaramond(0)/m/n/12 Mbäé canhêma ogoacémaagoéra ïjâra
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 4228.
+(lettrine.sty)             reported on input line 4220.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3404,22 +3396,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [141]
-Overfull \hbox (0.87459pt too wide) in paragraph at lines 4234--4236
+Overfull \hbox (0.87459pt too wide) in paragraph at lines 4226--4228
 []\TU/EBGaramond(0)/m/n/12 Xeremöém aipó guiiábo, ëí, ogoendupâ-
  []
 
 
-Overfull \hbox (3.89859pt too wide) in paragraph at lines 4241--4243
+Overfull \hbox (3.89859pt too wide) in paragraph at lines 4233--4235
 []\TU/EBGaramond(0)/m/n/12 Eicatu ipó cenonhendarâma çupé é, imo-
  []
 
 
-Underfull \hbox (badness 3601) in paragraph at lines 4243--4245
+Underfull \hbox (badness 3601) in paragraph at lines 4235--4237
 []\TU/EBGaramond(0)/m/n/12 Aepe onhemombegoápe cemöembäé,
  []
 
 
-Overfull \hbox (0.21059pt too wide) in paragraph at lines 4245--4247
+Overfull \hbox (0.21059pt too wide) in paragraph at lines 4237--4239
 []\TU/EBGaramond(0)/m/n/12 Oiaby etété catú nhé oangaipagoéra cüa-
  []
 
@@ -3431,21 +3423,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [142]
-Overfull \hbox (0.17459pt too wide) in paragraph at lines 4261--4264
+Overfull \hbox (0.17459pt too wide) in paragraph at lines 4253--4256
 []\TU/EBGaramond(0)/m/n/12 Abá çupé marã oiâbo tenhé, iagoábo, ce-
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 4290.
+(lettrine.sty)             reported on input line 4282.
 
-Underfull \hbox (badness 4254) in paragraph at lines 4296--4297
+Underfull \hbox (badness 4254) in paragraph at lines 4288--4289
 []\TU/EBGaramond(0)/m/n/12 Marãpe acé recóu Tupã remimotâra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4296--4297
+Underfull \hbox (badness 10000) in paragraph at lines 4288--4289
 
  []
 
@@ -3457,24 +3449,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [143]
-Overfull \hbox (1.95457pt too wide) in paragraph at lines 4299--4302
+Overfull \hbox (1.95457pt too wide) in paragraph at lines 4291--4294
 []\TU/EBGaramond(0)/m/n/12 Opâcabé cecé omäendüáramo,ixupé oie-
  []
 
 
-Overfull \hbox (0.5466pt too wide) in paragraph at lines 4304--4308
+Overfull \hbox (0.5466pt too wide) in paragraph at lines 4296--4300
 []\TU/EBGaramond(0)/m/n/12 Marã marã pacó ieí xerecóu, êei, onhëan-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4304--4308
+Underfull \hbox (badness 10000) in paragraph at lines 4296--4300
 \TU/EBGaramond(0)/m/n/12 gherecôbo oangaipagoéra recé, avié,
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.75816pt (I);
-(lettrine.sty)             reported on input line 4331.
+(lettrine.sty)             reported on input line 4323.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3483,12 +3475,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [144]
-Underfull \hbox (badness 1024) in paragraph at lines 4359--4361
+Underfull \hbox (badness 1024) in paragraph at lines 4351--4353
 []\TU/EBGaramond(0)/m/n/12 Abaré Miſſa monhangheymebé coépe
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 4362--4364
+Underfull \hbox (badness 2020) in paragraph at lines 4354--4356
 []\TU/EBGaramond(0)/m/n/12 Miſſa renduparëyma mborypa, coipó
  []
 
@@ -3503,24 +3495,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 4381.
+(lettrine.sty)             reported on input line 4373.
 
-Underfull \hbox (badness 1888) in paragraph at lines 4385--4388
+Underfull \hbox (badness 1888) in paragraph at lines 4377--4380
 \TU/EBGaramond(0)/m/n/12 ârama recé oicótebêmo, onhemombëú
  []
 
 
-Underfull \hbox (badness 2837) in paragraph at lines 4389--4391
+Underfull \hbox (badness 2837) in paragraph at lines 4381--4383
 []\TU/EBGaramond(0)/m/n/12 Aépe oporomónhemombegoâra çupé
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 4393--4395
+Underfull \hbox (badness 1796) in paragraph at lines 4385--4387
 []\TU/EBGaramond(0)/m/n/12 Oäyra, oemirecó, oboiá, oemïauçûba
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4401--4403
+Underfull \hbox (badness 10000) in paragraph at lines 4393--4395
 []\TU/EBGaramond(0)/m/n/12 Noiemöapycykixoéne, tëõ äîba çüí
  []
 
@@ -3532,21 +3524,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [146]
-Underfull \hbox (badness 1509) in paragraph at lines 4403--4406
-[]\TU/EBGaramond(0)/m/n/12 Marã ëípe abá tëõ çüí onhëangüâbo,
+Underfull \hbox (badness 1509) in paragraph at lines 4395--4398
+[]\TU/EBGaramond(0)/m/n/12 Marã ëípe abá tëõ çúí onhëangüâbo,
  []
 
 
-Underfull \hbox (badness 2310) in paragraph at lines 4403--4406
+Underfull \hbox (badness 2310) in paragraph at lines 4395--4398
 \TU/EBGaramond(0)/m/n/12 onhemombëúëyma mocóa pucú pota-
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 4426.
+(lettrine.sty)             reported on input line 4418.
 
-Underfull \hbox (badness 1490) in paragraph at lines 4435--4438
+Underfull \hbox (badness 1490) in paragraph at lines 4427--4430
 []\TU/EBGaramond(0)/m/n/12 Oiaby bépe abá Tupã nhëênga oäyra
  []
 
@@ -3558,7 +3550,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [147]
-Overfull \hbox (1.31859pt too wide) in paragraph at lines 4452--4454
+Overfull \hbox (1.31859pt too wide) in paragraph at lines 4444--4446
 []\TU/EBGaramond(0)/m/n/12 Tïapycyc xe ânga omonhangâra, opy- cy-
  []
 
@@ -3573,9 +3565,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 4483.
+(lettrine.sty)             reported on input line 4475.
 
-Underfull \hbox (badness 7151) in paragraph at lines 4495--4499
+Underfull \hbox (badness 7151) in paragraph at lines 4487--4491
 []\TU/EBGaramond(0)/m/n/12 Cunumĩ, cunhãtãi, tunhabãêymâna,
  []
 
@@ -3587,7 +3579,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [149]
-Overfull \hbox (0.45459pt too wide) in paragraph at lines 4520--4521
+Overfull \hbox (0.45459pt too wide) in paragraph at lines 4512--4513
 []\TU/EBGaramond(0)/m/n/12 Çöó guabëyma pupé abá çupé çöó üucá. 
  []
 
@@ -3602,16 +3594,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.84435pt (M);
-(lettrine.sty)             reported on input line 4548.
+(lettrine.sty)             reported on input line 4540.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4559--4562
+Underfull \hbox (badness 10000) in paragraph at lines 4551--4554
 \TU/EBGaramond(0)/m/n/12 recé Tupã monghetaçâra mbäéráma
  []
 
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.70613pt (A);
-(lettrine.sty)             reported on input line 4570.
+(lettrine.sty)             reported on input line 4562.
 File: ../images/12.livro3.png Graphic file (type bmp)
 <../images/12.livro3.png>
 
@@ -3626,569 +3618,37 @@ Cap\'{\i }tulo 9.
 Package lettrine.sty Info: Targeted height = 63.436pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 56.23325pt (\zall {M});
-(lettrine.sty)             reported on input line 4606.
+(lettrine.sty)             reported on input line 4598.
 
-Underfull \hbox (badness 1917) in paragraph at lines 4606--4612
+Underfull \hbox (badness 1917) in paragraph at lines 4598--4604
 \TU/EBGaramond(0)/m/n/12 moroërôca. Ké guá JESUS
  []
 
 
-Overfull \hbox (15.25102pt too wide) in paragraph at lines 4603--4613
+Overfull \hbox (15.25102pt too wide) in paragraph at lines 4595--4605
 |[] 
  []
 
 
-Overfull \hbox (4.43858pt too wide) in paragraph at lines 4618--4631
-[]\TU/EBGaramond(0)/m/n/12 Opá iandé põóoã, memé moçapyr iandé
- []
-
-
-Underfull \hbox (badness 5817) in paragraph at lines 4618--4631
-\TU/EBGaramond(0)/m/n/12 Tupã Tâyra áriré, moçapyr Morobixâ-
- []
-
-
-Underfull \hbox (badness 1127) in paragraph at lines 4618--4631
-\TU/EBGaramond(0)/m/n/12 ba Reis iâba , coaraçycembâba coty çüí
- []
-
-
-Overfull \hbox (1.20656pt too wide) in paragraph at lines 4618--4631
-\TU/EBGaramond(0)/m/n/12 cüapâba: töó çüí Myrrha moröecé cëõagoâ-
- []
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[152]
-Underfull \hbox (badness 1033) in paragraph at lines 4638--4647
-\TU/EBGaramond(0)/m/n/12 omembyra JESUS reraçóu Tupã rócupe
- []
-
-
-Underfull \hbox (badness 1377) in paragraph at lines 4653--4661
-\TU/EBGaramond(0)/m/n/12 garoéra recobiáramo târi Apoſtolóramo.
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[153]
-Overfull \hbox (3.35988pt too wide) in paragraph at lines 4668--4684
-\TU/EBGaramond(0)/m/n/12 ghi : ipupé quarenta âra iaiecüacúbine. Do-
- []
-
-
-Overfull \hbox (0.2386pt too wide) in paragraph at lines 4668--4684
-\TU/EBGaramond(0)/m/n/12 mböêbo, quarenta amó âra pupé oiecüacu-
- []
-
-
-Overfull \hbox (4.51059pt too wide) in paragraph at lines 4668--4684
-\TU/EBGaramond(0)/m/n/12 iaicôbo cemimonhangoéra iamonhángh ne.
- []
-
-
-Overfull \hbox (4.08658pt too wide) in paragraph at lines 4668--4684
-\TU/EBGaramond(0)/m/n/12 nhemonhânghi erímbäé, ipupé iandé angai-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[154]
-Underfull \hbox (badness 1072) in paragraph at lines 4692--4701
-\TU/EBGaramond(0)/m/n/12 pitânga oipytybõ cemiurâma recé onhe-
- []
-
-
-Underfull \hbox (badness 3439) in paragraph at lines 4707--4713
-[]| \TU/EBGaramond(0)/m/n/12 Ocy Santa Maria ryghépe pitángamo
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[155]
-Overfull \hbox (1.00658pt too wide) in paragraph at lines 4721--4727
-[]| \TU/EBGaramond(0)/m/n/12 Quinta feira de Endoenças iandé iâra aba-
- []
-
-
-Overfull \hbox (0.8546pt too wide) in paragraph at lines 4721--4727
-\TU/EBGaramond(0)/m/n/12 ebocóe âra pupé,amó äé âra sexta feira pupé
- []
-
-File: ../images/15.catalogos_março.png Graphic file (type bmp)
-<../images/15.catalogos_março.png>
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[156]
-Underfull \hbox (badness 10000) in paragraph at lines 4757--4761
-\TU/EBGaramond(0)/m/n/10.95 Congregat.die 25.Septemb.an.1627.apud
- []
-
-
-Overfull \hbox (0.74898pt too wide) in paragraph at lines 4747--4762
-|[] | [] 
- []
-
-
-Overfull \hbox (9.20259pt too wide) in paragraph at lines 4781--4787
-\TU/EBGaramond(0)/m/n/12 cobé opabäérámëyma rí oiecoçâpa, Tupã recé
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[157]
-Overfull \hbox (3.00656pt too wide) in paragraph at lines 4793--4800
-\TU/EBGaramond(0)/m/n/12 Cy ocecarucár: amó Judeo tunhabäé ityma-
- []
-
-
-Underfull \hbox (badness 3049) in paragraph at lines 4793--4800
-\TU/EBGaramond(0)/m/n/12 cecé iandé moiecoçupagoéra recé iandé
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4793--4800
-
- []
-
-
-Overfull \hbox (2.70659pt too wide) in paragraph at lines 4816--4825
-\TU/EBGaramond(0)/m/n/12 pupé nã çöó guába rüã, aipó âra iabiõiebyie-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[158]
-Overfull \hbox (1.67062pt too wide) in paragraph at lines 4830--4839
-[]| \TU/EBGaramond(0)/m/n/12 Xe pò, xe py, amo abá pó, ipy abé, quaren-
- []
-
-
-Underfull \hbox (badness 1960) in paragraph at lines 4846--4860
-\TU/EBGaramond(0)/m/n/12 goéra çüí Tupã Eſpirito Santo mböúri.
- []
-
-
-Overfull \hbox (1.7039pt too wide) in paragraph at lines 4846--4860
-\TU/EBGaramond(0)/m/n/12 poromböeçâba nhëênga mombegoâbo. Pe-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[159]
-Overfull \hbox (3.2186pt too wide) in paragraph at lines 4867--4876
-\TU/EBGaramond(0)/m/n/12 có bé acé ángbäé recé oiecüacûbone, tacepy-
- []
-
-
-Underfull \hbox (badness 1377) in paragraph at lines 4883--4889
-[]| \TU/EBGaramond(0)/m/n/12 Có Domingo öúrbäé Santiſſima Trin-
- []
-
-
-Overfull \hbox (4.83589pt too wide) in paragraph at lines 4883--4889
-\TU/EBGaramond(0)/m/n/12 pupé iaimöeté. Aê iandé monhangára, tiaie-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[160]
-Underfull \hbox (badness 2556) in paragraph at lines 4920--4930
-\TU/EBGaramond(0)/m/n/10.95 in qua apud Leandrum de S.Sacram.p.3.
- []
-
-
-Underfull \hbox (badness 1147) in paragraph at lines 4901--4948
-[]| \TU/EBGaramond(0)/m/n/12 Morabykyëyma có âra iaimöeté, Tupã
- []
-
-
-Overfull \hbox (1.29857pt too wide) in paragraph at lines 4901--4948
-\TU/EBGaramond(0)/m/n/12 monghetâbo nhóte, tiandemäendüár Tupã
- []
-
-
-Overfull \hbox (2.40256pt too wide) in paragraph at lines 4901--4948
-\TU/EBGaramond(0)/m/n/12 tãos rorybëymamo,cêó agoéra rapirômo bé.
- []
-
-
-Underfull \hbox (badness 4819) in paragraph at lines 4901--4948
-\TU/EBGaramond(0)/m/n/12 Deitëé cöyr onhemöaretêbo gorybamo,
- []
-
-
-Overfull \hbox (1.17595pt too wide) in paragraph at lines 4901--4948
-| [] | [] 
- []
-
-
-Overfull \hbox (1.17595pt too wide) in paragraph at lines 4901--4948
-| [] | [] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[161]
-Overfull \hbox (2.22658pt too wide) in paragraph at lines 4957--4968
-\TU/EBGaramond(0)/m/n/12 iára renotáramo, imombegoábo, Penhemo-
- []
-
-
-Overfull \hbox (0.53859pt too wide) in paragraph at lines 4957--4968
-\TU/EBGaramond(0)/m/n/12 ropycyroâna rúri, ëi erímbäé Chriſto mom-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[162]
-Underfull \hbox (badness 1082) in paragraph at lines 4990--4996
-\TU/EBGaramond(0)/m/n/12 Tupã recé , oioécé cëõagoéra recé Tupã
- []
-
-
-Overfull \hbox (0.23857pt too wide) in paragraph at lines 5001--5008
-\TU/EBGaramond(0)/m/n/12 Maria ababycagoeréyma cyramo cecóreme,
- []
-
-
-Overfull \hbox (2.2706pt too wide) in paragraph at lines 5001--5008
-\TU/EBGaramond(0)/m/n/12 mo oicôbo opácatú tecó catú iâra cy oimbö-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[163]
-Overfull \hbox (4.0599pt too wide) in paragraph at lines 5017--5024
-\TU/EBGaramond(0)/m/n/12 itá jurá árybo cecyri Tupã recé ijucâbo. Imo-
- []
-
-
-Overfull \hbox (2.8639pt too wide) in paragraph at lines 5017--5024
-\TU/EBGaramond(0)/m/n/12 gâra pupé cêõagoéra moeteçábamo. Ie- cüa-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[164]
-Underfull \hbox (badness 1325) in paragraph at lines 5061--5066
-\TU/EBGaramond(0)/m/n/12 catú amó recê imopaneméymi çauçûpa.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5061--5066
-
- []
-
-
-Overfull \hbox (2.37593pt too wide) in paragraph at lines 5067--5078
-[]| [] | [] 
- []
-
-
-Overfull \hbox (1.34258pt too wide) in paragraph at lines 5080--5088
-[]| \TU/EBGaramond(0)/m/n/12 Quarta, ſeſta feira,ſabbado abé có ſomana
- []
-
-
-Overfull \hbox (2.44391pt too wide) in paragraph at lines 5080--5088
-\TU/EBGaramond(0)/m/n/12 pupé iecüacupâba, Temporas iâba. Oiecüa-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5080--5088
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[165]
-Underfull \hbox (badness 10000) in paragraph at lines 5096--5101
-[]| \TU/EBGaramond(0)/m/n/12 Tupã mombegoâpe cykyieëyma recé,
- []
-
-
-Overfull \hbox (2.43059pt too wide) in paragraph at lines 5096--5101
-\TU/EBGaramond(0)/m/n/12 cúb ipïaçâba âra pupé.Có Santo omböeçâra
- []
-
-
-Overfull \hbox (0.24258pt too wide) in paragraph at lines 5106--5114
-\TU/EBGaramond(0)/m/n/12 ramo.Aé abé abá angaturâma rëõneme,iân-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[166]
-Overfull \hbox (1.4706pt too wide) in paragraph at lines 5126--5133
-\TU/EBGaramond(0)/m/n/12 rêymetá, Saõ Simaõ, Saõ Judas Thadeo mo-
- []
-
-
-Overfull \hbox (1.41858pt too wide) in paragraph at lines 5126--5133
-\TU/EBGaramond(0)/m/n/12 mocoĩ bé Tupã möétêbo cëõu : iandé imöe-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[167]
-Underfull \hbox (badness 1895) in paragraph at lines 5157--5168
-[]| \TU/EBGaramond(0)/m/n/12 Santa Madre Igreja rerecoâra Papa có
- []
-
-
-Overfull \hbox (1.51057pt too wide) in paragraph at lines 5157--5168
-\TU/EBGaramond(0)/m/n/12 repymondykêyme Purgatorio pupé oçobäé
- []
-
-
-Overfull \hbox (2.23058pt too wide) in paragraph at lines 5157--5168
-\TU/EBGaramond(0)/m/n/12 mëéng mbäé amó abá porëauçûba çupé: ce-
- []
-
-
-Overfull \hbox (0.80258pt too wide) in paragraph at lines 5157--5168
-\TU/EBGaramond(0)/m/n/12 çäangucá, toçauçubár Tupã imocêma, ogo-
- []
-
-
-Overfull \hbox (4.53189pt too wide) in paragraph at lines 5175--5180
-\TU/EBGaramond(0)/m/n/12 recé imoiâri paçâma pupé inhapytiamo. Tu-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[168]
-Overfull \hbox (0.51457pt too wide) in paragraph at lines 5192--5200
-\TU/EBGaramond(0)/m/n/12 ocy ryghépe iandé iâra Santa Maria nhemo-
- []
-
-
-Overfull \hbox (5.43988pt too wide) in paragraph at lines 5192--5200
-\TU/EBGaramond(0)/m/n/12 nhangagoéra recé iandé mäendüáramo. Iän-
- []
-
-
-Overfull \hbox (3.1879pt too wide) in paragraph at lines 5192--5200
-\TU/EBGaramond(0)/m/n/12 gâba çüí. Deitëé opoxyëymamo, öangatura-
- []
-
-
-Underfull \hbox (badness 1609) in paragraph at lines 5209--5217
-\TU/EBGaramond(0)/m/n/12 roieby potareyma, tacepymëéng xe recó
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[169]
-Overfull \hbox (1.61859pt too wide) in paragraph at lines 5226--5234
-\TU/EBGaramond(0)/m/n/12 möeté, Apoſtolo Chriſto boiá erímbäé cecó
- []
-
-
-Overfull \hbox (0.2346pt too wide) in paragraph at lines 5226--5234
-\TU/EBGaramond(0)/m/n/12 Sãto cupé guá, oúr erímbäé có ybyçûpa ïéu:
- []
-
-
-Overfull \hbox (15.6266pt too wide) in paragraph at lines 5226--5234
-\TU/EBGaramond(0)/m/n/12 cerã ïaçâbi India Tapyítinga retâme, cëyí ebapó
- []
-
-
-Overfull \hbox (9.3959pt too wide) in paragraph at lines 5243--5250
-\TU/EBGaramond(0)/m/n/12 ra. Opábenhé mbäé iáramo oicôbo çöó mim-
- []
-
-
-Overfull \hbox (1.98926pt too wide) in paragraph at lines 5243--5250
-\TU/EBGaramond(0)/m/n/12 pupé ixy inônghi; ybakygoâra onhemo- pu-
- []
-
-
-Overfull \hbox (3.9639pt too wide) in paragraph at lines 5243--5250
-\TU/EBGaramond(0)/m/n/12 tupáb inhemomorëauçûba repiâca. Ara ipi-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[170]
-Overfull \hbox (0.8079pt too wide) in paragraph at lines 5272--5281
-\TU/EBGaramond(0)/m/n/12 ryyra rêó. Có Santo opá cecó, inhéêengoéra
- []
-
-
-Underfull \hbox (badness 1590) in paragraph at lines 5289--5301
-\TU/EBGaramond(0)/m/n/12 röy omöauiébäé mombabucaragoéra âra
- []
-
-
-Overfull \hbox (4.17859pt too wide) in paragraph at lines 5289--5301
-\TU/EBGaramond(0)/m/n/12 pitânga, ïiamundâba pôra abé apitiucári, ce-
- []
-
-
-Overfull \hbox (1.7026pt too wide) in paragraph at lines 5289--5301
-\TU/EBGaramond(0)/m/n/12 cüâpa Tupã Caräíbebé mböuri, Saõ Joſeph,
- []
-
-
-Overfull \hbox (2.01859pt too wide) in paragraph at lines 5289--5301
-\TU/EBGaramond(0)/m/n/12 to ceríbäé pé : ebapó tapeicó, peiebyrãogoâ-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[171]
-Overfull \hbox (0.7786pt too wide) in paragraph at lines 5308--5320
-\TU/EBGaramond(0)/m/n/12 Conſtantino ceribäé oceróc, y caräíba pupé
- []
-
-
-Overfull \hbox (1.71333pt too wide) in paragraph at lines 5324--5329
-\TU/EBGaramond(0)/m/it/10 ou ſaõ de preceito pelos Canones ſagrados , ou de coſtu-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[172]
-Overfull \hbox (3.8706pt too wide) in paragraph at lines 5343--5350
-\TU/EBGaramond(0)/m/n/12 quacumque Civitate, Oppido, vel Pago, ubi
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[173]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[174] (./catecismo_araujo_1696.aux)
+[152] (./catecismo_araujo_1696.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6979 strings out of 474831
- 170279 string characters out of 5758353
+ 6961 strings out of 474831
+ 169518 string characters out of 5758353
  1926109 words of memory out of 5000000
- 28963 multiletter control sequences out of 15000+600000
- 559666 words of font info for 78 fonts, out of 8000000 for 9000
+ 28950 multiletter control sequences out of 15000+600000
+ 559634 words of font info for 74 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  79i,12n,93p,338b,430s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on catecismo_araujo_1696.pdf (175 pages).
+Output written on catecismo_araujo_1696.pdf (153 pages).
